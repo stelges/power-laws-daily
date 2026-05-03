@@ -18,18 +18,18 @@
     "law_01": {
       "introduced": true,
       "introduced_on": "2026-04-25",
-      "last_seen": "2026-04-29",
-      "next_due": "2026-05-06",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-05-03",
+      "next_due": "2026-05-17",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_02": {
       "introduced": true,
       "introduced_on": "2026-04-30",
-      "last_seen": "2026-05-01",
-      "next_due": "2026-05-04",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-05-03",
+      "next_due": "2026-05-10",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_03": {
       "introduced": false,
@@ -402,18 +402,18 @@
     "strategy_01": {
       "introduced": true,
       "introduced_on": "2026-04-27",
-      "last_seen": "2026-05-01",
-      "next_due": "2026-05-08",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-05-03",
+      "next_due": "2026-05-17",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-05-02",
-      "next_due": "2026-05-03",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-05-03",
+      "next_due": "2026-05-06",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_03": {
       "introduced": false,
@@ -745,6 +745,21 @@
       ],
       "output_json": "output/lessons/2026-05-02-new-strategy.json",
       "output_pdf": null
+    },
+    {
+      "date": "2026-05-03",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 1: Erkläre deinen inneren Feinden den Krieg, Gesetz 1: Stelle deinen Meister nie in den Schatten, Gesetz 2: Vertraue Freunden nicht zu sehr; lerne, Feinde zu nutzen",
+      "items": [
+        "strategy_01",
+        "law_01",
+        "law_02",
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-05-03-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-03T02:05:40",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
