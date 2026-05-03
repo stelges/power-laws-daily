@@ -1,0 +1,750 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-04-24",
+  "timezone": "Europe/Berlin",
+  "settings": {
+    "review_intervals_days": [
+      1,
+      3,
+      7,
+      14,
+      30,
+      60
+    ],
+    "application_after_lessons": 4,
+    "comparison_after_lessons": 6
+  },
+  "items": {
+    "law_01": {
+      "introduced": true,
+      "introduced_on": "2026-04-25",
+      "last_seen": "2026-04-29",
+      "next_due": "2026-05-06",
+      "review_count": 2,
+      "times_seen": 3
+    },
+    "law_02": {
+      "introduced": true,
+      "introduced_on": "2026-04-30",
+      "last_seen": "2026-05-01",
+      "next_due": "2026-05-04",
+      "review_count": 1,
+      "times_seen": 2
+    },
+    "law_03": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_04": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_05": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_06": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_07": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_08": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_09": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_10": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_11": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_12": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_13": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_14": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_15": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_16": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_17": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_18": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_19": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_20": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_21": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_22": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_23": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_24": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_25": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_26": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_27": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_28": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_29": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_30": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_31": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_32": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_33": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_34": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_35": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_36": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_37": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_38": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_39": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_40": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_41": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_42": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_43": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_44": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_45": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_46": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_47": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "law_48": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_01": {
+      "introduced": true,
+      "introduced_on": "2026-04-27",
+      "last_seen": "2026-05-01",
+      "next_due": "2026-05-08",
+      "review_count": 2,
+      "times_seen": 3
+    },
+    "strategy_02": {
+      "introduced": true,
+      "introduced_on": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "next_due": "2026-05-03",
+      "review_count": 0,
+      "times_seen": 1
+    },
+    "strategy_03": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_04": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_05": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_06": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_07": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_08": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_09": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_10": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_11": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_12": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_13": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_14": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_15": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_16": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_17": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_18": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_19": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_20": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_21": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_22": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_23": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_24": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_25": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_26": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_27": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_28": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_29": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_30": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_31": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_32": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    },
+    "strategy_33": {
+      "introduced": false,
+      "introduced_on": null,
+      "last_seen": null,
+      "next_due": null,
+      "review_count": 0,
+      "times_seen": 0
+    }
+  },
+  "history": [
+    {
+      "date": "2026-04-25",
+      "type": "new_law",
+      "title": "Gesetz 1: Stelle deinen Meister nie in den Schatten",
+      "items": [
+        "law_01"
+      ],
+      "output_json": "output/lessons/2026-04-25-new-law.json",
+      "output_pdf": null
+    },
+    {
+      "date": "2026-04-26",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 1: Stelle deinen Meister nie in den Schatten",
+      "items": [
+        "law_01"
+      ],
+      "output_json": "output/lessons/2026-04-26-weekly-review.json",
+      "output_pdf": null
+    },
+    {
+      "date": "2026-04-27",
+      "type": "new_strategy",
+      "title": "Strategie 1: Erkläre deinen inneren Feinden den Krieg",
+      "items": [
+        "strategy_01"
+      ],
+      "output_json": "output/lessons/2026-04-27-new-strategy.json",
+      "output_pdf": null
+    },
+    {
+      "date": "2026-04-28",
+      "type": "review",
+      "title": "Wiederholung: Strategie 1: Erkläre deinen inneren Feinden den Krieg",
+      "items": [
+        "strategy_01"
+      ],
+      "output_json": "output/lessons/2026-04-28-review.json",
+      "output_pdf": null
+    },
+    {
+      "date": "2026-04-29",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 1: Stelle deinen Meister nie in den Schatten",
+      "items": [
+        "law_01"
+      ],
+      "output_json": "output/lessons/2026-04-29-review.json",
+      "output_pdf": null
+    },
+    {
+      "date": "2026-04-30",
+      "type": "new_law",
+      "title": "Gesetz 2: Vertraue Freunden nicht zu sehr; lerne, Feinde zu nutzen",
+      "items": [
+        "law_02"
+      ],
+      "output_json": "output/lessons/2026-04-30-new-law.json",
+      "output_pdf": null
+    },
+    {
+      "date": "2026-05-01",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 2: Vertraue Freunden nicht zu sehr; lerne, Feinde zu nutzen",
+      "items": [
+        "law_02",
+        "strategy_01"
+      ],
+      "output_json": "output/lessons/2026-05-01-review.json",
+      "output_pdf": null
+    },
+    {
+      "date": "2026-05-02",
+      "type": "new_strategy",
+      "title": "Strategie 2: Führe keinen vergangenen Krieg",
+      "items": [
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-05-02-new-strategy.json",
+      "output_pdf": null
+    }
+  ]
+}

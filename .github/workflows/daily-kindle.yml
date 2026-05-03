@@ -1,0 +1,100 @@
+name: Daily Kindle Lesson
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-kindle-lesson
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    env:
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+      KINDLE_EMAIL: ${{ secrets.KINDLE_EMAIL }}
+      TZ: Europe/Berlin
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Use Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Seed curriculum
+        run: python src/seed_full_curriculum.py
+
+      - name: Check local send window
+        id: send_window
+        if: github.event_name == 'schedule'
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          now = datetime.now(ZoneInfo("Europe/Berlin"))
+          if (now.hour, now.minute) < (6, 30):
+              print(f"Too early in Europe/Berlin: {now:%H:%M}. Waiting for the later scheduled run.")
+              with open(__import__("os").environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
+                  handle.write("should_run=false\n")
+              raise SystemExit(0)
+          print(f"Local send window reached: {now:%H:%M}.")
+          with open(__import__("os").environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
+              handle.write("should_run=true\n")
+          PY
+
+      - name: Validate secrets
+        if: github.event_name != 'schedule' || steps.send_window.outputs.should_run == 'true'
+        run: |
+          missing=()
+          for key in SMTP_HOST SMTP_PORT SMTP_USER SMTP_PASS FROM_EMAIL KINDLE_EMAIL; do
+            if [ -z "${!key}" ]; then
+              missing+=("$key")
+            fi
+          done
+          if [ "${#missing[@]}" -gt 0 ]; then
+            printf 'Missing required secrets: %s\n' "${missing[*]}"
+            exit 1
+          fi
+
+      - name: Generate and send lesson
+        if: github.event_name != 'schedule' || steps.send_window.outputs.should_run == 'true'
+        run: python src/run_daily.py --send --send-retries 3 --skip-if-sent
+
+      - name: Upload lesson artifacts
+        if: always() && (github.event_name != 'schedule' || steps.send_window.outputs.should_run == 'true')
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-kindle-output
+          path: |
+            output/lessons/
+            output/pdf/
+            output/epub/
+
+      - name: Commit updated learning state
+        if: github.event_name != 'schedule' || steps.send_window.outputs.should_run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/learning_state.json output/lessons output/pdf output/epub
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "Run daily Kindle lesson"
+            git push
+          fi
