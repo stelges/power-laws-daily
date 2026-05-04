@@ -32,12 +32,12 @@
       "times_seen": 3
     },
     "law_03": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "next_due": "2026-05-05",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_04": {
       "introduced": false,
@@ -760,6 +760,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-03T02:05:40",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-05-04",
+      "type": "new_law",
+      "title": "Gesetz 3: Verberge deine Absichten",
+      "items": [
+        "law_03"
+      ],
+      "output_json": "output/lessons/2026-05-04-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-04T09:36:17",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-3-verberge-deine-absichten.epub"
     }
   ]
 }
