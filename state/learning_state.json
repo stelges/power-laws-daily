@@ -34,10 +34,10 @@
     "law_03": {
       "introduced": true,
       "introduced_on": "2026-05-04",
-      "last_seen": "2026-05-04",
-      "next_due": "2026-05-05",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-05-05",
+      "next_due": "2026-05-08",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_04": {
       "introduced": false,
@@ -772,6 +772,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-04T09:36:17",
       "output_epub": "output/epub/gesetz-der-macht-nummer-3-verberge-deine-absichten.epub"
+    },
+    {
+      "date": "2026-05-05",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 3: Verberge deine Absichten",
+      "items": [
+        "law_03"
+      ],
+      "output_json": "output/lessons/2026-05-05-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-05T08:34:59",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-3-verberge-deine-absichten.epub"
     }
   ]
 }
