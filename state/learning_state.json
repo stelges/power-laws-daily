@@ -410,10 +410,10 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-05-03",
-      "next_due": "2026-05-06",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-05-06",
+      "next_due": "2026-05-13",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_03": {
       "introduced": false,
@@ -784,6 +784,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-05T08:34:59",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-3-verberge-deine-absichten.epub"
+    },
+    {
+      "date": "2026-05-06",
+      "type": "review",
+      "title": "Wiederholung: Strategie 2: Führe keinen vergangenen Krieg",
+      "items": [
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-05-06-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-06T09:16:55",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-2-fuhre-keinen-vergangenen-krieg.epub"
     }
   ]
 }
