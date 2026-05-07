@@ -34,10 +34,10 @@
     "law_03": {
       "introduced": true,
       "introduced_on": "2026-05-04",
-      "last_seen": "2026-05-05",
-      "next_due": "2026-05-08",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-05-07",
+      "next_due": "2026-05-14",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_04": {
       "introduced": false,
@@ -410,10 +410,10 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-05-06",
-      "next_due": "2026-05-13",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-05-07",
+      "next_due": "2026-05-21",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_03": {
       "introduced": false,
@@ -796,6 +796,19 @@
       "output_pdf": null,
       "sent_at": "2026-05-06T09:16:55",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-2-fuhre-keinen-vergangenen-krieg.epub"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "comparison",
+      "title": "Gesetz 3: Verberge deine Absichten vs. Strategie 2: Führe keinen vergangenen Krieg",
+      "items": [
+        "law_03",
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-05-07-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-07T09:25:41",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-3-verberge-deine-absichten-vs-strategie-2-fuhre-keinen-vergangenen-krieg.epub"
     }
   ]
 }
