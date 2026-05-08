@@ -416,12 +416,12 @@
       "times_seen": 4
     },
     "strategy_03": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "next_due": "2026-05-09",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_04": {
       "introduced": false,
@@ -809,6 +809,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-07T09:25:41",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-3-verberge-deine-absichten-vs-strategie-2-fuhre-keinen-vergangenen-krieg.epub"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "new_strategy",
+      "title": "Strategie 3: Bewahre auch im Chaos Geistesgegenwart",
+      "items": [
+        "strategy_03"
+      ],
+      "output_json": "output/lessons/2026-05-08-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-08T08:17:04",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
     }
   ]
 }
