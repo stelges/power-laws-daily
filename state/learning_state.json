@@ -418,10 +418,10 @@
     "strategy_03": {
       "introduced": true,
       "introduced_on": "2026-05-08",
-      "last_seen": "2026-05-08",
-      "next_due": "2026-05-09",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-05-09",
+      "next_due": "2026-05-12",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_04": {
       "introduced": false,
@@ -821,6 +821,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-08T08:17:04",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
+    },
+    {
+      "date": "2026-05-09",
+      "type": "review",
+      "title": "Wiederholung: Strategie 3: Bewahre auch im Chaos Geistesgegenwart",
+      "items": [
+        "strategy_03"
+      ],
+      "output_json": "output/lessons/2026-05-09-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-09T08:33:19",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
     }
   ]
 }
