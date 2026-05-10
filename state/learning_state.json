@@ -34,10 +34,10 @@
     "law_03": {
       "introduced": true,
       "introduced_on": "2026-05-04",
-      "last_seen": "2026-05-07",
-      "next_due": "2026-05-14",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-05-10",
+      "next_due": "2026-05-24",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_04": {
       "introduced": false,
@@ -410,18 +410,18 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-05-07",
-      "next_due": "2026-05-21",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-05-10",
+      "next_due": "2026-06-09",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_03": {
       "introduced": true,
       "introduced_on": "2026-05-08",
-      "last_seen": "2026-05-09",
-      "next_due": "2026-05-12",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-05-10",
+      "next_due": "2026-05-17",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_04": {
       "introduced": false,
@@ -833,6 +833,20 @@
       "output_pdf": null,
       "sent_at": "2026-05-09T08:33:19",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 3: Verberge deine Absichten, Strategie 2: Führe keinen vergangenen Krieg, Strategie 3: Bewahre auch im Chaos Geistesgegenwart",
+      "items": [
+        "law_03",
+        "strategy_02",
+        "strategy_03"
+      ],
+      "output_json": "output/lessons/2026-05-10-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-10T09:13:15",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
