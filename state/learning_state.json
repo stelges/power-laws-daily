@@ -40,12 +40,12 @@
       "times_seen": 4
     },
     "law_04": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "next_due": "2026-05-13",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_05": {
       "introduced": false,
@@ -859,6 +859,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-11T10:02:00",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-2-vertraue-freunden-nicht-zu-sehr-lerne-feinde-zu-nutzen.epub"
+    },
+    {
+      "date": "2026-05-12",
+      "type": "new_law",
+      "title": "Gesetz 4: Sage immer weniger als nötig",
+      "items": [
+        "law_04"
+      ],
+      "output_json": "output/lessons/2026-05-12-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-12T09:23:53",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-4-sage-immer-weniger-als-notig.epub"
     }
   ]
 }
