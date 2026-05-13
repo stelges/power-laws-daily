@@ -42,10 +42,10 @@
     "law_04": {
       "introduced": true,
       "introduced_on": "2026-05-12",
-      "last_seen": "2026-05-12",
-      "next_due": "2026-05-13",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-05-13",
+      "next_due": "2026-05-16",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_05": {
       "introduced": false,
@@ -871,6 +871,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-12T09:23:53",
       "output_epub": "output/epub/gesetz-der-macht-nummer-4-sage-immer-weniger-als-notig.epub"
+    },
+    {
+      "date": "2026-05-13",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 4: Sage immer weniger als nötig",
+      "items": [
+        "law_04"
+      ],
+      "output_json": "output/lessons/2026-05-13-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-13T09:37:22",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-4-sage-immer-weniger-als-notig.epub"
     }
   ]
 }
