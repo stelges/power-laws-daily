@@ -50,10 +50,10 @@
     "law_05": {
       "introduced": true,
       "introduced_on": "2026-05-14",
-      "last_seen": "2026-05-14",
-      "next_due": "2026-05-15",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-05-15",
+      "next_due": "2026-05-18",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_06": {
       "introduced": false,
@@ -895,6 +895,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-14T09:29:58",
       "output_epub": "output/epub/gesetz-der-macht-nummer-5-schutze-deinen-ruf-um-jeden-preis.epub"
+    },
+    {
+      "date": "2026-05-15",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 5: Schütze deinen Ruf um jeden Preis",
+      "items": [
+        "law_05"
+      ],
+      "output_json": "output/lessons/2026-05-15-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-15T09:42:16",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-5-schutze-deinen-ruf-um-jeden-preis.epub"
     }
   ]
 }
