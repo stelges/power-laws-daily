@@ -26,10 +26,10 @@
     "law_02": {
       "introduced": true,
       "introduced_on": "2026-04-30",
-      "last_seen": "2026-05-11",
-      "next_due": "2026-05-25",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-05-17",
+      "next_due": "2026-06-16",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_03": {
       "introduced": true,
@@ -42,18 +42,18 @@
     "law_04": {
       "introduced": true,
       "introduced_on": "2026-05-12",
-      "last_seen": "2026-05-16",
-      "next_due": "2026-05-23",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-05-17",
+      "next_due": "2026-05-31",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_05": {
       "introduced": true,
       "introduced_on": "2026-05-14",
-      "last_seen": "2026-05-15",
-      "next_due": "2026-05-18",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-05-17",
+      "next_due": "2026-05-24",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_06": {
       "introduced": false,
@@ -919,6 +919,20 @@
       "output_pdf": null,
       "sent_at": "2026-05-16T08:40:14",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-4-sage-immer-weniger-als-notig.epub"
+    },
+    {
+      "date": "2026-05-17",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 2: Vertraue Freunden nicht zu sehr; lerne, Feinde zu nutzen, Gesetz 4: Sage immer weniger als nötig, Gesetz 5: Schütze deinen Ruf um jeden Preis",
+      "items": [
+        "law_02",
+        "law_04",
+        "law_05"
+      ],
+      "output_json": "output/lessons/2026-05-17-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-17T09:22:30",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
