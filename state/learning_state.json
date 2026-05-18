@@ -18,10 +18,10 @@
     "law_01": {
       "introduced": true,
       "introduced_on": "2026-04-25",
-      "last_seen": "2026-05-03",
-      "next_due": "2026-05-17",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-05-18",
+      "next_due": "2026-06-17",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_02": {
       "introduced": true,
@@ -418,10 +418,10 @@
     "strategy_03": {
       "introduced": true,
       "introduced_on": "2026-05-08",
-      "last_seen": "2026-05-10",
-      "next_due": "2026-05-17",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-05-18",
+      "next_due": "2026-06-01",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_04": {
       "introduced": false,
@@ -933,6 +933,19 @@
       "output_pdf": null,
       "sent_at": "2026-05-17T09:22:30",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-05-18",
+      "type": "review",
+      "title": "Wiederholung: Strategie 3: Bewahre auch im Chaos Geistesgegenwart",
+      "items": [
+        "strategy_03",
+        "law_01"
+      ],
+      "output_json": "output/lessons/2026-05-18-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-18T10:32:05",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
     }
   ]
 }

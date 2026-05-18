@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-18",
+  "title": "Tagesdosis Strategie & Macht",
+  "today_key": "review",
+  "today": "Wiederholung",
+  "focus_title": "Wiederholung: Strategie 3: Bewahre auch im Chaos Geistesgegenwart",
+  "subtitle": "Abrufen, verdichten, erneut verfügbar machen.",
+  "intro": "Heute geht es nicht um neuen Stoff, sondern um aktiven Abruf.\n\nIm Fokus steht Strategie 3: Bewahre auch im Chaos Geistesgegenwart. Erst erinnern, dann vergleichen, dann sauber verdichten.",
+  "source_item_ids": [
+    "strategy_03",
+    "law_01"
+  ],
+  "recall_questions": [
+    "Was ist die Kernmechanik von Strategie 3?",
+    "Wo könnte 'Bewahre auch im Chaos Geistesgegenwart' in meinem Alltag auftauchen?",
+    "Was ist die Kernmechanik von Gesetz 1?"
+  ],
+  "sections": [
+    {
+      "heading": "Inhalt",
+      "body": "Heute geht es nicht um neuen Stoff, sondern um Abruf: Was ist noch aktiv verfügbar?"
+    },
+    {
+      "heading": "Kernmechanik",
+      "body": "Wiederhole zuerst Strategie 3: Bewahre auch im Chaos Geistesgegenwart. Formuliere die Mechanik aus dem Kopf, bevor du weiterliest."
+    },
+    {
+      "heading": "Warum das funktioniert",
+      "body": "Das funktioniert, weil soziale Systeme auf Wahrnehmung, Interessen, Emotionen und wiederholte Signale reagieren. Strategie 3 macht einen bestimmten Hebel sichtbar: ruhe."
+    },
+    {
+      "heading": "Beispiel",
+      "body": "Prüfe eine aktuelle Situation aus Schule, Karriere, Politik, App-Business oder Selbstführung: Wo zeigt sich 'Bewahre auch im Chaos Geistesgegenwart' konkret, und welcher nächste Schritt wäre ruhig, strategisch und integer?"
+    },
+    {
+      "heading": "Dunkle Anwendung",
+      "body": "Destruktiv wird diese Mechanik, wenn 'Bewahre auch im Chaos Geistesgegenwart' genutzt wird, um Menschen zu täuschen, zu beschämen, abhängig zu machen oder Handlungsspielräume unfair zu verengen."
+    },
+    {
+      "heading": "Gegenmittel",
+      "body": "Langsam werden, Interessen klären, Verhalten statt Worte beobachten, eigene Grenzen schützen und nicht unter emotionalem Druck entscheiden."
+    },
+    {
+      "heading": "Zweiter Abrufanker",
+      "body": "Verbinde anschließend Gesetz 1: Stelle deinen Meister nie in den Schatten mit Strategie 3: Bewahre auch im Chaos Geistesgegenwart. Wo verstärken sie sich, wo widersprechen sie sich?"
+    }
+  ],
+  "quote": "Wissen zählt erst, wenn es unter Druck abrufbar bleibt.",
+  "mini_task": "Erkläre die heutige Mechanik in drei Sätzen aus dem Kopf und prüfe dich erst danach mit der PDF.",
+  "output_json": "output/lessons/2026-05-18-review.json",
+  "output_pdf": "output/pdf/wiederholung-strategie-und-macht-strategie-3-bewahre-auch-im-chaos-geistesgegenwart.pdf",
+  "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
+}
