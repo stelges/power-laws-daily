@@ -402,10 +402,10 @@
     "strategy_01": {
       "introduced": true,
       "introduced_on": "2026-04-27",
-      "last_seen": "2026-05-03",
-      "next_due": "2026-05-17",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-05-19",
+      "next_due": "2026-06-18",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_02": {
       "introduced": true,
@@ -946,6 +946,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-18T10:32:05",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
+    },
+    {
+      "date": "2026-05-19",
+      "type": "review",
+      "title": "Wiederholung: Strategie 1: Erkläre deinen inneren Feinden den Krieg",
+      "items": [
+        "strategy_01"
+      ],
+      "output_json": "output/lessons/2026-05-19-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-19T10:02:16",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-1-erklare-deinen-inneren-feinden-den-krieg.epub"
     }
   ]
 }
