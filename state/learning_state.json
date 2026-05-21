@@ -426,10 +426,10 @@
     "strategy_04": {
       "introduced": true,
       "introduced_on": "2026-05-20",
-      "last_seen": "2026-05-20",
-      "next_due": "2026-05-21",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-05-21",
+      "next_due": "2026-05-24",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_05": {
       "introduced": false,
@@ -970,6 +970,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-20T10:01:34",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-4-schaffe-ein-gefuhl-von-dringlichkeit-und-verzweiflung.epub"
+    },
+    {
+      "date": "2026-05-21",
+      "type": "review",
+      "title": "Wiederholung: Strategie 4: Schaffe ein Gefühl von Dringlichkeit und Verzweiflung",
+      "items": [
+        "strategy_04"
+      ],
+      "output_json": "output/lessons/2026-05-21-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-21T10:08:41",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-4-schaffe-ein-gefuhl-von-dringlichkeit-und-verzweiflung.epub"
     }
   ]
 }
