@@ -18,10 +18,10 @@
     "law_01": {
       "introduced": true,
       "introduced_on": "2026-04-25",
-      "last_seen": "2026-05-18",
-      "next_due": "2026-06-17",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-05-24",
+      "next_due": "2026-07-23",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_02": {
       "introduced": true,
@@ -402,10 +402,10 @@
     "strategy_01": {
       "introduced": true,
       "introduced_on": "2026-04-27",
-      "last_seen": "2026-05-19",
-      "next_due": "2026-06-18",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-05-24",
+      "next_due": "2026-07-23",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_02": {
       "introduced": true,
@@ -418,18 +418,18 @@
     "strategy_03": {
       "introduced": true,
       "introduced_on": "2026-05-08",
-      "last_seen": "2026-05-18",
-      "next_due": "2026-06-01",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-05-24",
+      "next_due": "2026-06-23",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_04": {
       "introduced": true,
       "introduced_on": "2026-05-20",
-      "last_seen": "2026-05-21",
-      "next_due": "2026-05-24",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-05-24",
+      "next_due": "2026-05-31",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_05": {
       "introduced": false,
@@ -1006,6 +1006,21 @@
       "output_pdf": null,
       "sent_at": "2026-05-23T09:16:08",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-6-ziehe-um-jeden-preis-aufmerksamkeit-auf-dich.epub"
+    },
+    {
+      "date": "2026-05-24",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 3: Bewahre auch im Chaos Geistesgegenwart, Gesetz 1: Stelle deinen Meister nie in den Schatten, Strategie 1: Erkläre deinen inneren Feinden den Krieg",
+      "items": [
+        "strategy_03",
+        "law_01",
+        "strategy_01",
+        "strategy_04"
+      ],
+      "output_json": "output/lessons/2026-05-24-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-24T09:37:37",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
