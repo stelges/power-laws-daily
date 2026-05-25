@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-25",
+  "title": "Tagesdosis Strategie & Macht",
+  "today_key": "review",
+  "today": "Wiederholung",
+  "focus_title": "Wiederholung: Gesetz 5: Schütze deinen Ruf um jeden Preis",
+  "subtitle": "Abrufen, verdichten, erneut verfügbar machen.",
+  "intro": "Heute geht es nicht um neuen Stoff, sondern um aktiven Abruf.\n\nIm Fokus steht Gesetz 5: Schütze deinen Ruf um jeden Preis. Erst erinnern, dann vergleichen, dann sauber verdichten.",
+  "source_item_ids": [
+    "law_05",
+    "law_03"
+  ],
+  "recall_questions": [
+    "Was ist die Kernmechanik von Gesetz 5?",
+    "Wo könnte 'Schütze deinen Ruf um jeden Preis' in meinem Alltag auftauchen?",
+    "Was ist die Kernmechanik von Gesetz 3?"
+  ],
+  "sections": [
+    {
+      "heading": "Inhalt",
+      "body": "Heute geht es nicht um neuen Stoff, sondern um Abruf: Was ist noch aktiv verfügbar?"
+    },
+    {
+      "heading": "Kernmechanik",
+      "body": "Wiederhole zuerst Gesetz 5: Schütze deinen Ruf um jeden Preis. Formuliere die Mechanik aus dem Kopf, bevor du weiterliest."
+    },
+    {
+      "heading": "Warum das funktioniert",
+      "body": "Das funktioniert, weil soziale Systeme auf Wahrnehmung, Interessen, Emotionen und wiederholte Signale reagieren. Gesetz 5 macht einen bestimmten Hebel sichtbar: ruf."
+    },
+    {
+      "heading": "Beispiel",
+      "body": "Prüfe eine aktuelle Situation aus Schule, Karriere, Politik, App-Business oder Selbstführung: Wo zeigt sich 'Schütze deinen Ruf um jeden Preis' konkret, und welcher nächste Schritt wäre ruhig, strategisch und integer?"
+    },
+    {
+      "heading": "Dunkle Anwendung",
+      "body": "Destruktiv wird diese Mechanik, wenn 'Schütze deinen Ruf um jeden Preis' genutzt wird, um Menschen zu täuschen, zu beschämen, abhängig zu machen oder Handlungsspielräume unfair zu verengen."
+    },
+    {
+      "heading": "Gegenmittel",
+      "body": "Langsam werden, Interessen klären, Verhalten statt Worte beobachten, eigene Grenzen schützen und nicht unter emotionalem Druck entscheiden."
+    },
+    {
+      "heading": "Zweiter Abrufanker",
+      "body": "Verbinde anschließend Gesetz 3: Verberge deine Absichten mit Gesetz 5: Schütze deinen Ruf um jeden Preis. Wo verstärken sie sich, wo widersprechen sie sich?"
+    }
+  ],
+  "quote": "Wissen zählt erst, wenn es unter Druck abrufbar bleibt.",
+  "mini_task": "Erkläre die heutige Mechanik in drei Sätzen aus dem Kopf und prüfe dich erst danach mit der PDF.",
+  "output_json": "output/lessons/2026-05-25-review.json",
+  "output_pdf": "output/pdf/wiederholung-strategie-und-macht-gesetz-5-schutze-deinen-ruf-um-jeden-preis.pdf",
+  "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-5-schutze-deinen-ruf-um-jeden-preis.epub"
+}
