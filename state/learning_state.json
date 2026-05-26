@@ -58,10 +58,10 @@
     "law_06": {
       "introduced": true,
       "introduced_on": "2026-05-22",
-      "last_seen": "2026-05-23",
-      "next_due": "2026-05-26",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-05-26",
+      "next_due": "2026-06-02",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_07": {
       "introduced": false,
@@ -1034,6 +1034,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-25T10:45:50",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-5-schutze-deinen-ruf-um-jeden-preis.epub"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 6: Ziehe um jeden Preis Aufmerksamkeit auf dich",
+      "items": [
+        "law_06"
+      ],
+      "output_json": "output/lessons/2026-05-26-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-26T10:06:59",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-6-ziehe-um-jeden-preis-aufmerksamkeit-auf-dich.epub"
     }
   ]
 }
