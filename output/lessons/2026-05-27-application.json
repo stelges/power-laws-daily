@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-27",
+  "title": "Tagesdosis Strategie & Macht",
+  "today_key": "application",
+  "today": "Anwendung / Mini-Fallanalyse",
+  "focus_title": "Mini-Fallanalyse: Strategie 4: Schaffe ein Gefühl von Dringlichkeit und Verzweiflung",
+  "subtitle": "Eine reale Lage lesen, statt nur eine Regel zu merken.",
+  "intro": "Heute steht keine neue Regel im Vordergrund, sondern ihre Anwendung auf eine Lage.\n\nNutze Strategie 4: Schaffe ein Gefühl von Dringlichkeit und Verzweiflung als Linse, um die Situation strategisch zu lesen.",
+  "source_item_ids": [
+    "strategy_04"
+  ],
+  "recall_questions": [
+    "Was ist in der Situation der sichtbare Konflikt?",
+    "Welche Emotion soll vermutlich ausgelöst werden?",
+    "Wie würde Strategie 4: Schaffe ein Gefühl von Dringlichkeit und Verzweiflung die Lage deuten?"
+  ],
+  "sections": [
+    {
+      "heading": "Inhalt",
+      "body": "Fall: Du bist neu an einer Schule. Du hast eine starke Idee für ein MINT-/Technikprojekt, kennst aber die informellen Kräfte im Kollegium noch nicht."
+    },
+    {
+      "heading": "Kernmechanik",
+      "body": "Dringlichkeit bündelt Energie, wenn sie realistisch und selbst gewählt ist. Künstlicher Druck macht manipulierbar."
+    },
+    {
+      "heading": "Warum das funktioniert",
+      "body": "Eine Mini-Fallanalyse zwingt dich, vom Begriff zur Lage zu wechseln: Wer will was, wer braucht wen, wer könnte sich bedroht fühlen, welche Handlung ist der nächste kleine Schritt?"
+    },
+    {
+      "heading": "Beispiel",
+      "body": "Prüfe eine aktuelle Situation aus Schule, Karriere, Politik, App-Business oder Selbstführung: Wo zeigt sich 'Schaffe ein Gefühl von Dringlichkeit und Verzweiflung' konkret, und welcher nächste Schritt wäre ruhig, strategisch und integer?"
+    },
+    {
+      "heading": "Dunkle Anwendung",
+      "body": "Destruktiv wird diese Mechanik, wenn 'Schaffe ein Gefühl von Dringlichkeit und Verzweiflung' genutzt wird, um Menschen zu täuschen, zu beschämen, abhängig zu machen oder Handlungsspielräume unfair zu verengen."
+    },
+    {
+      "heading": "Gegenmittel",
+      "body": "Langsam werden, Interessen klären, Verhalten statt Worte beobachten, eigene Grenzen schützen und nicht unter emotionalem Druck entscheiden."
+    }
+  ],
+  "quote": "Strategie beginnt, wenn du nicht mehr automatisch reagierst.",
+  "mini_task": "Beschreibe heute eine Situation mit zehn Stichworten: Ziel, Personen, Interessen, Emotion, Risiko, bester nächster Schritt.",
+  "output_json": "output/lessons/2026-05-27-application.json",
+  "output_pdf": "output/pdf/mini-fallanalyse-strategie-4-schaffe-ein-gefuhl-von-dringlichkeit-und-verzweiflung.pdf",
+  "output_epub": "output/epub/mini-fallanalyse-strategie-4-schaffe-ein-gefuhl-von-dringlichkeit-und-verzweiflung.epub"
+}
