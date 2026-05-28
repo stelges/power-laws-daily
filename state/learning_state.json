@@ -432,12 +432,12 @@
       "times_seen": 4
     },
     "strategy_05": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-05-28",
+      "last_seen": "2026-05-28",
+      "next_due": "2026-05-29",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_06": {
       "introduced": false,
@@ -1058,6 +1058,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-27T10:26:30",
       "output_epub": "output/epub/mini-fallanalyse-strategie-4-schaffe-ein-gefuhl-von-dringlichkeit-und-verzweiflung.epub"
+    },
+    {
+      "date": "2026-05-28",
+      "type": "new_strategy",
+      "title": "Strategie 5: Vermeide Gruppendenken",
+      "items": [
+        "strategy_05"
+      ],
+      "output_json": "output/lessons/2026-05-28-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-28T10:27:16",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-5-vermeide-gruppendenken.epub"
     }
   ]
 }
