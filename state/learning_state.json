@@ -434,10 +434,10 @@
     "strategy_05": {
       "introduced": true,
       "introduced_on": "2026-05-28",
-      "last_seen": "2026-05-28",
-      "next_due": "2026-05-29",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-05-29",
+      "next_due": "2026-06-01",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_06": {
       "introduced": false,
@@ -1070,6 +1070,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-28T10:27:16",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-5-vermeide-gruppendenken.epub"
+    },
+    {
+      "date": "2026-05-29",
+      "type": "review",
+      "title": "Wiederholung: Strategie 5: Vermeide Gruppendenken",
+      "items": [
+        "strategy_05"
+      ],
+      "output_json": "output/lessons/2026-05-29-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-29T10:24:42",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-5-vermeide-gruppendenken.epub"
     }
   ]
 }
