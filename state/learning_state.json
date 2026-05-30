@@ -64,12 +64,12 @@
       "times_seen": 3
     },
     "law_07": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-05-30",
+      "last_seen": "2026-05-30",
+      "next_due": "2026-05-31",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_08": {
       "introduced": false,
@@ -1082,6 +1082,18 @@
       "output_pdf": null,
       "sent_at": "2026-05-29T10:24:42",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-5-vermeide-gruppendenken.epub"
+    },
+    {
+      "date": "2026-05-30",
+      "type": "new_law",
+      "title": "Gesetz 7: Lass andere für dich arbeiten, aber nimm selbst den Ruhm",
+      "items": [
+        "law_07"
+      ],
+      "output_json": "output/lessons/2026-05-30-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-30T09:26:17",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-7-lass-andere-fur-dich-arbeiten-aber-nimm-selbst-den-ruhm.epub"
     }
   ]
 }
