@@ -34,10 +34,10 @@
     "law_03": {
       "introduced": true,
       "introduced_on": "2026-05-04",
-      "last_seen": "2026-05-25",
-      "next_due": "2026-06-24",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-05-31",
+      "next_due": "2026-07-30",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_04": {
       "introduced": true,
@@ -50,18 +50,18 @@
     "law_05": {
       "introduced": true,
       "introduced_on": "2026-05-14",
-      "last_seen": "2026-05-25",
-      "next_due": "2026-06-08",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-05-31",
+      "next_due": "2026-06-30",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_06": {
       "introduced": true,
       "introduced_on": "2026-05-22",
-      "last_seen": "2026-05-26",
-      "next_due": "2026-06-02",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-05-31",
+      "next_due": "2026-06-14",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_07": {
       "introduced": true,
@@ -426,10 +426,10 @@
     "strategy_04": {
       "introduced": true,
       "introduced_on": "2026-05-20",
-      "last_seen": "2026-05-27",
-      "next_due": "2026-06-10",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-05-31",
+      "next_due": "2026-06-30",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_05": {
       "introduced": true,
@@ -1094,6 +1094,21 @@
       "output_pdf": null,
       "sent_at": "2026-05-30T09:26:17",
       "output_epub": "output/epub/gesetz-der-macht-nummer-7-lass-andere-fur-dich-arbeiten-aber-nimm-selbst-den-ruhm.epub"
+    },
+    {
+      "date": "2026-05-31",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 5: Schütze deinen Ruf um jeden Preis, Gesetz 3: Verberge deine Absichten, Gesetz 6: Ziehe um jeden Preis Aufmerksamkeit auf dich",
+      "items": [
+        "law_05",
+        "law_03",
+        "law_06",
+        "strategy_04"
+      ],
+      "output_json": "output/lessons/2026-05-31-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-05-31T09:57:21",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }

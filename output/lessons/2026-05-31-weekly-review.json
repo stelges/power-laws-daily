@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-31",
+  "title": "Tagesdosis Strategie & Macht",
+  "today_key": "weekly_review",
+  "today": "Wochenreview",
+  "focus_title": "Wochenreview: Gesetz 5: Schütze deinen Ruf um jeden Preis, Gesetz 3: Verberge deine Absichten, Gesetz 6: Ziehe um jeden Preis Aufmerksamkeit auf dich",
+  "subtitle": "Verdichten, verbinden, anwenden.",
+  "intro": "Heute ist Wochenreview: kein neuer Input, sondern Konsolidierung.\n\nAbrufen, verknüpfen, anwenden.",
+  "source_item_ids": [
+    "law_05",
+    "law_03",
+    "law_06",
+    "strategy_04"
+  ],
+  "recall_questions": [
+    "Welche Mechanik der Woche erkenne ich ohne Nachlesen am klarsten?",
+    "Welche habe ich im Alltag tatsächlich beobachtet?",
+    "Welche würde unter Stress vermutlich verschwinden?"
+  ],
+  "sections": [
+    {
+      "heading": "Inhalt",
+      "body": "Heute kein neuer Input. Das Ziel ist Konsolidierung: abrufen, verknüpfen, eine reale Situation lesen."
+    },
+    {
+      "heading": "Kernmechanik",
+      "body": "Spaced repetition wirkt, wenn du aktiv prüfst, was noch im Kopf ist, bevor du erneut liest."
+    },
+    {
+      "heading": "Warum das funktioniert",
+      "body": "Wochenreviews verhindern, dass einzelne Lektionen isoliert bleiben. Sie verwandeln Stoff in ein nutzbares mentales Modell."
+    },
+    {
+      "heading": "Beispiel",
+      "body": "Nimm eine Situation aus Schule, Politik oder App-Business und prüfe: Wer setzt den Rahmen, welche Emotion entsteht, wer profitiert, was ist der souveräne nächste Schritt?"
+    },
+    {
+      "heading": "Dunkle Anwendung",
+      "body": "Ohne Review entsteht Scheinsicherheit: Man hat gelesen, aber kann unter Druck nichts abrufen."
+    },
+    {
+      "heading": "Gegenmittel",
+      "body": "Schreibe drei kurze Sätze aus dem Kopf. Erst danach nachlesen. Lücken sind kein Scheitern, sondern Trainingsdaten."
+    }
+  ],
+  "quote": "Nicht mehr Stoff. Mehr Zugriff.",
+  "mini_task": "Wähle eine reale Lage der Woche und analysiere sie mit: Ziel, Gegenspieler, Terrain, Emotion, nächster Schritt.",
+  "output_json": "output/lessons/2026-05-31-weekly-review.json",
+  "output_pdf": "output/pdf/wochenreview-strategie-und-macht.pdf",
+  "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+}
