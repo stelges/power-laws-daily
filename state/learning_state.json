@@ -434,10 +434,10 @@
     "strategy_05": {
       "introduced": true,
       "introduced_on": "2026-05-28",
-      "last_seen": "2026-05-29",
-      "next_due": "2026-06-01",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-06-02",
+      "next_due": "2026-06-09",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_06": {
       "introduced": false,
@@ -1122,6 +1122,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-01T11:41:54",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-7-lass-andere-fur-dich-arbeiten-aber-nimm-selbst-den-ruhm.epub"
+    },
+    {
+      "date": "2026-06-02",
+      "type": "review",
+      "title": "Wiederholung: Strategie 5: Vermeide Gruppendenken",
+      "items": [
+        "strategy_05"
+      ],
+      "output_json": "output/lessons/2026-06-02-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-02T10:53:35",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-5-vermeide-gruppendenken.epub"
     }
   ]
 }
