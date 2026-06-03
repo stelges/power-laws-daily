@@ -72,12 +72,12 @@
       "times_seen": 2
     },
     "law_08": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-06-03",
+      "last_seen": "2026-06-03",
+      "next_due": "2026-06-04",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_09": {
       "introduced": false,
@@ -1134,6 +1134,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-02T10:53:35",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-5-vermeide-gruppendenken.epub"
+    },
+    {
+      "date": "2026-06-03",
+      "type": "new_law",
+      "title": "Gesetz 8: Bring andere dazu, zu dir zu kommen",
+      "items": [
+        "law_08"
+      ],
+      "output_json": "output/lessons/2026-06-03-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-03T11:14:16",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-8-bring-andere-dazu-zu-dir-zu-kommen.epub"
     }
   ]
 }
