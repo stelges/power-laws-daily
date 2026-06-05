@@ -440,12 +440,12 @@
       "times_seen": 3
     },
     "strategy_06": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-06-05",
+      "last_seen": "2026-06-05",
+      "next_due": "2026-06-06",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_07": {
       "introduced": false,
@@ -1159,6 +1159,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-04T10:39:06",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-8-bring-andere-dazu-zu-dir-zu-kommen.epub"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "new_strategy",
+      "title": "Strategie 6: Segmentiere deine Kräfte",
+      "items": [
+        "strategy_06"
+      ],
+      "output_json": "output/lessons/2026-06-05-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-05T10:30:08",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-6-segmentiere-deine-krafte.epub"
     }
   ]
 }
