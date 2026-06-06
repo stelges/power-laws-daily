@@ -442,10 +442,10 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-06-05",
-      "next_due": "2026-06-06",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-06-06",
+      "next_due": "2026-06-09",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_07": {
       "introduced": false,
@@ -1171,6 +1171,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-05T10:30:08",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-6-segmentiere-deine-krafte.epub"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "review",
+      "title": "Wiederholung: Strategie 6: Segmentiere deine Kräfte",
+      "items": [
+        "strategy_06"
+      ],
+      "output_json": "output/lessons/2026-06-06-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-06T09:33:05",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-6-segmentiere-deine-krafte.epub"
     }
   ]
 }
