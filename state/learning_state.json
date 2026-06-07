@@ -42,10 +42,10 @@
     "law_04": {
       "introduced": true,
       "introduced_on": "2026-05-12",
-      "last_seen": "2026-06-01",
-      "next_due": "2026-07-01",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-06-07",
+      "next_due": "2026-08-06",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_05": {
       "introduced": true,
@@ -66,18 +66,18 @@
     "law_07": {
       "introduced": true,
       "introduced_on": "2026-05-30",
-      "last_seen": "2026-06-04",
-      "next_due": "2026-06-11",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-06-07",
+      "next_due": "2026-06-21",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_08": {
       "introduced": true,
       "introduced_on": "2026-06-03",
-      "last_seen": "2026-06-04",
-      "next_due": "2026-06-07",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-06-07",
+      "next_due": "2026-06-14",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_09": {
       "introduced": false,
@@ -434,10 +434,10 @@
     "strategy_05": {
       "introduced": true,
       "introduced_on": "2026-05-28",
-      "last_seen": "2026-06-02",
-      "next_due": "2026-06-09",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-06-07",
+      "next_due": "2026-06-21",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_06": {
       "introduced": true,
@@ -1183,6 +1183,21 @@
       "output_pdf": null,
       "sent_at": "2026-06-06T09:33:05",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-6-segmentiere-deine-krafte.epub"
+    },
+    {
+      "date": "2026-06-07",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 7: Lass andere für dich arbeiten, aber nimm selbst den Ruhm, Gesetz 4: Sage immer weniger als nötig, Strategie 5: Vermeide Gruppendenken",
+      "items": [
+        "law_07",
+        "law_04",
+        "strategy_05",
+        "law_08"
+      ],
+      "output_json": "output/lessons/2026-06-07-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-07T10:07:14",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
