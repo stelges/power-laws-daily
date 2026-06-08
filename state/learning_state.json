@@ -442,10 +442,10 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-06-06",
-      "next_due": "2026-06-09",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-06-08",
+      "next_due": "2026-06-15",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_07": {
       "introduced": false,
@@ -1198,6 +1198,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-07T10:07:14",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-06-08",
+      "type": "application",
+      "title": "Mini-Fallanalyse: Strategie 6: Segmentiere deine Kräfte",
+      "items": [
+        "strategy_06"
+      ],
+      "output_json": "output/lessons/2026-06-08-application.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-08T11:12:16",
+      "output_epub": "output/epub/mini-fallanalyse-strategie-6-segmentiere-deine-krafte.epub"
     }
   ]
 }
