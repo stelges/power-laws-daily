@@ -410,10 +410,10 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-05-10",
-      "next_due": "2026-06-09",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-06-09",
+      "next_due": "2026-08-08",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_03": {
       "introduced": true,
@@ -1210,6 +1210,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-08T11:12:16",
       "output_epub": "output/epub/mini-fallanalyse-strategie-6-segmentiere-deine-krafte.epub"
+    },
+    {
+      "date": "2026-06-09",
+      "type": "review",
+      "title": "Wiederholung: Strategie 2: Führe keinen vergangenen Krieg",
+      "items": [
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-06-09-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-09T10:07:15",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-2-fuhre-keinen-vergangenen-krieg.epub"
     }
   ]
 }
