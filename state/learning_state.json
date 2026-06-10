@@ -80,12 +80,12 @@
       "times_seen": 3
     },
     "law_09": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-06-10",
+      "last_seen": "2026-06-10",
+      "next_due": "2026-06-11",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_10": {
       "introduced": false,
@@ -1222,6 +1222,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-09T10:07:15",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-2-fuhre-keinen-vergangenen-krieg.epub"
+    },
+    {
+      "date": "2026-06-10",
+      "type": "new_law",
+      "title": "Gesetz 9: Gewinne durch Taten, nicht durch Argumente",
+      "items": [
+        "law_09"
+      ],
+      "output_json": "output/lessons/2026-06-10-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-10T10:31:18",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-9-gewinne-durch-taten-nicht-durch-argumente.epub"
     }
   ]
 }
