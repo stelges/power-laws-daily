@@ -82,10 +82,10 @@
     "law_09": {
       "introduced": true,
       "introduced_on": "2026-06-10",
-      "last_seen": "2026-06-11",
-      "next_due": "2026-06-14",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-06-12",
+      "next_due": "2026-06-19",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_10": {
       "introduced": false,
@@ -442,10 +442,10 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-06-08",
-      "next_due": "2026-06-15",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-06-12",
+      "next_due": "2026-06-26",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_07": {
       "introduced": false,
@@ -1246,6 +1246,19 @@
       "output_pdf": null,
       "sent_at": "2026-06-11T11:01:07",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-9-gewinne-durch-taten-nicht-durch-argumente.epub"
+    },
+    {
+      "date": "2026-06-12",
+      "type": "comparison",
+      "title": "Gesetz 9: Gewinne durch Taten, nicht durch Argumente vs. Strategie 6: Segmentiere deine Kräfte",
+      "items": [
+        "law_09",
+        "strategy_06"
+      ],
+      "output_json": "output/lessons/2026-06-12-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-12T10:46:17",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-9-gewinne-durch-taten-nicht-durch-argumente-vs-strategie-6-segmentiere-deine-krafte.epub"
     }
   ]
 }
