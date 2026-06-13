@@ -448,12 +448,12 @@
       "times_seen": 4
     },
     "strategy_07": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-06-13",
+      "last_seen": "2026-06-13",
+      "next_due": "2026-06-14",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_08": {
       "introduced": false,
@@ -1259,6 +1259,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-12T10:46:17",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-9-gewinne-durch-taten-nicht-durch-argumente-vs-strategie-6-segmentiere-deine-krafte.epub"
+    },
+    {
+      "date": "2026-06-13",
+      "type": "new_strategy",
+      "title": "Strategie 7: Verwandle deinen Krieg in einen Kreuzzug",
+      "items": [
+        "strategy_07"
+      ],
+      "output_json": "output/lessons/2026-06-13-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-13T10:02:02",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-7-verwandle-deinen-krieg-in-einen-kreuzzug.epub"
     }
   ]
 }
