@@ -82,10 +82,10 @@
     "law_09": {
       "introduced": true,
       "introduced_on": "2026-06-10",
-      "last_seen": "2026-06-12",
-      "next_due": "2026-06-19",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-06-14",
+      "next_due": "2026-06-28",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_10": {
       "introduced": false,
@@ -410,10 +410,10 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-06-09",
-      "next_due": "2026-08-08",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-06-14",
+      "next_due": "2026-08-13",
+      "review_count": 6,
+      "times_seen": 7
     },
     "strategy_03": {
       "introduced": true,
@@ -442,18 +442,18 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-06-12",
-      "next_due": "2026-06-26",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-06-14",
+      "next_due": "2026-07-14",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_07": {
       "introduced": true,
       "introduced_on": "2026-06-13",
-      "last_seen": "2026-06-13",
-      "next_due": "2026-06-14",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-06-14",
+      "next_due": "2026-06-17",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_08": {
       "introduced": false,
@@ -1271,6 +1271,21 @@
       "output_pdf": null,
       "sent_at": "2026-06-13T10:02:02",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-7-verwandle-deinen-krieg-in-einen-kreuzzug.epub"
+    },
+    {
+      "date": "2026-06-14",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 6: Segmentiere deine Kräfte, Strategie 2: Führe keinen vergangenen Krieg, Gesetz 9: Gewinne durch Taten, nicht durch Argumente",
+      "items": [
+        "strategy_06",
+        "strategy_02",
+        "law_09",
+        "strategy_07"
+      ],
+      "output_json": "output/lessons/2026-06-14-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-14T10:31:45",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
