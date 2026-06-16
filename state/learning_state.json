@@ -26,10 +26,10 @@
     "law_02": {
       "introduced": true,
       "introduced_on": "2026-04-30",
-      "last_seen": "2026-05-17",
-      "next_due": "2026-06-16",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-06-16",
+      "next_due": "2026-08-15",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_03": {
       "introduced": true,
@@ -1299,6 +1299,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-15T12:43:52",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-8-bring-andere-dazu-zu-dir-zu-kommen.epub"
+    },
+    {
+      "date": "2026-06-16",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 2: Vertraue Freunden nicht zu sehr; lerne, Feinde zu nutzen",
+      "items": [
+        "law_02"
+      ],
+      "output_json": "output/lessons/2026-06-16-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-16T11:39:56",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-2-vertraue-freunden-nicht-zu-sehr-lerne-feinde-zu-nutzen.epub"
     }
   ]
 }
