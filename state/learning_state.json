@@ -450,10 +450,10 @@
     "strategy_07": {
       "introduced": true,
       "introduced_on": "2026-06-13",
-      "last_seen": "2026-06-14",
-      "next_due": "2026-06-17",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-06-17",
+      "next_due": "2026-06-24",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_08": {
       "introduced": false,
@@ -1311,6 +1311,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-16T11:39:56",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-2-vertraue-freunden-nicht-zu-sehr-lerne-feinde-zu-nutzen.epub"
+    },
+    {
+      "date": "2026-06-17",
+      "type": "review",
+      "title": "Wiederholung: Strategie 7: Verwandle deinen Krieg in einen Kreuzzug",
+      "items": [
+        "strategy_07"
+      ],
+      "output_json": "output/lessons/2026-06-17-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-17T11:19:00",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-7-verwandle-deinen-krieg-in-einen-kreuzzug.epub"
     }
   ]
 }
