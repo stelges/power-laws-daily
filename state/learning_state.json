@@ -88,12 +88,12 @@
       "times_seen": 5
     },
     "law_10": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "next_due": "2026-06-20",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_11": {
       "introduced": false,
@@ -1336,6 +1336,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-18T11:04:19",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-9-gewinne-durch-taten-nicht-durch-argumente-vs-strategie-7-verwandle-deinen-krieg-in-einen-kreuzzug.epub"
+    },
+    {
+      "date": "2026-06-19",
+      "type": "new_law",
+      "title": "Gesetz 10: Meide Unglückliche und Pechvögel",
+      "items": [
+        "law_10"
+      ],
+      "output_json": "output/lessons/2026-06-19-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-19T11:20:28",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-10-meide-ungluckliche-und-pechvogel.epub"
     }
   ]
 }
