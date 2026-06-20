@@ -90,10 +90,10 @@
     "law_10": {
       "introduced": true,
       "introduced_on": "2026-06-19",
-      "last_seen": "2026-06-19",
-      "next_due": "2026-06-20",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-06-20",
+      "next_due": "2026-06-23",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_11": {
       "introduced": false,
@@ -1348,6 +1348,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-19T11:20:28",
       "output_epub": "output/epub/gesetz-der-macht-nummer-10-meide-ungluckliche-und-pechvogel.epub"
+    },
+    {
+      "date": "2026-06-20",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 10: Meide Unglückliche und Pechvögel",
+      "items": [
+        "law_10"
+      ],
+      "output_json": "output/lessons/2026-06-20-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-20T10:31:03",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-10-meide-ungluckliche-und-pechvogel.epub"
     }
   ]
 }
