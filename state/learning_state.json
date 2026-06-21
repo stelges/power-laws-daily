@@ -26,10 +26,10 @@
     "law_02": {
       "introduced": true,
       "introduced_on": "2026-04-30",
-      "last_seen": "2026-06-16",
-      "next_due": "2026-08-15",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-06-21",
+      "next_due": "2026-08-20",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_03": {
       "introduced": true,
@@ -58,10 +58,10 @@
     "law_06": {
       "introduced": true,
       "introduced_on": "2026-05-22",
-      "last_seen": "2026-06-15",
-      "next_due": "2026-07-15",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-06-21",
+      "next_due": "2026-08-20",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_07": {
       "introduced": true,
@@ -74,10 +74,10 @@
     "law_08": {
       "introduced": true,
       "introduced_on": "2026-06-03",
-      "last_seen": "2026-06-15",
-      "next_due": "2026-06-29",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-06-21",
+      "next_due": "2026-07-21",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_09": {
       "introduced": true,
@@ -450,10 +450,10 @@
     "strategy_07": {
       "introduced": true,
       "introduced_on": "2026-06-13",
-      "last_seen": "2026-06-18",
-      "next_due": "2026-07-02",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-06-21",
+      "next_due": "2026-07-21",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_08": {
       "introduced": false,
@@ -1360,6 +1360,21 @@
       "output_pdf": null,
       "sent_at": "2026-06-20T10:31:03",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-10-meide-ungluckliche-und-pechvogel.epub"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 8: Bring andere dazu, zu dir zu kommen, Gesetz 6: Ziehe um jeden Preis Aufmerksamkeit auf dich, Gesetz 2: Vertraue Freunden nicht zu sehr; lerne, Feinde zu nutzen",
+      "items": [
+        "law_08",
+        "law_06",
+        "law_02",
+        "strategy_07"
+      ],
+      "output_json": "output/lessons/2026-06-21-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-21T10:46:14",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
