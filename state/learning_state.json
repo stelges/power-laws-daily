@@ -90,10 +90,10 @@
     "law_10": {
       "introduced": true,
       "introduced_on": "2026-06-19",
-      "last_seen": "2026-06-23",
-      "next_due": "2026-06-30",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-06-24",
+      "next_due": "2026-07-08",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_11": {
       "introduced": false,
@@ -450,10 +450,10 @@
     "strategy_07": {
       "introduced": true,
       "introduced_on": "2026-06-13",
-      "last_seen": "2026-06-21",
-      "next_due": "2026-07-21",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-06-24",
+      "next_due": "2026-08-23",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_08": {
       "introduced": false,
@@ -1401,6 +1401,19 @@
       "output_pdf": null,
       "sent_at": "2026-06-23T10:03:36",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-10-meide-ungluckliche-und-pechvogel.epub"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "comparison",
+      "title": "Gesetz 10: Meide Unglückliche und Pechvögel vs. Strategie 7: Verwandle deinen Krieg in einen Kreuzzug",
+      "items": [
+        "law_10",
+        "strategy_07"
+      ],
+      "output_json": "output/lessons/2026-06-24-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-24T09:59:16",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-10-meide-ungluckliche-und-pechvogel-vs-strategie-7-verwandle-deinen-krieg-in-einen-kreuzzug.epub"
     }
   ]
 }
