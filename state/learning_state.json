@@ -98,10 +98,10 @@
     "law_11": {
       "introduced": true,
       "introduced_on": "2026-06-25",
-      "last_seen": "2026-06-25",
-      "next_due": "2026-06-26",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-06-26",
+      "next_due": "2026-06-29",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_12": {
       "introduced": false,
@@ -1426,6 +1426,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-25T10:00:03",
       "output_epub": "output/epub/gesetz-der-macht-nummer-11-mache-menschen-von-dir-abhangig.epub"
+    },
+    {
+      "date": "2026-06-26",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 11: Mache Menschen von dir abhängig",
+      "items": [
+        "law_11"
+      ],
+      "output_json": "output/lessons/2026-06-26-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-26T10:08:07",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-11-mache-menschen-von-dir-abhangig.epub"
     }
   ]
 }
