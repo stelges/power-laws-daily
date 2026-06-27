@@ -456,12 +456,12 @@
       "times_seen": 6
     },
     "strategy_08": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "next_due": "2026-06-28",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_09": {
       "introduced": false,
@@ -1438,6 +1438,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-26T10:08:07",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-11-mache-menschen-von-dir-abhangig.epub"
+    },
+    {
+      "date": "2026-06-27",
+      "type": "new_strategy",
+      "title": "Strategie 8: Wähle deine Schlachten sorgfältig",
+      "items": [
+        "strategy_08"
+      ],
+      "output_json": "output/lessons/2026-06-27-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-27T09:36:07",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-8-wahle-deine-schlachten-sorgfaltig.epub"
     }
   ]
 }
