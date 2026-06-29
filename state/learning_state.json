@@ -98,10 +98,10 @@
     "law_11": {
       "introduced": true,
       "introduced_on": "2026-06-25",
-      "last_seen": "2026-06-26",
-      "next_due": "2026-06-29",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-06-29",
+      "next_due": "2026-07-06",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_12": {
       "introduced": false,
@@ -458,10 +458,10 @@
     "strategy_08": {
       "introduced": true,
       "introduced_on": "2026-06-27",
-      "last_seen": "2026-06-27",
-      "next_due": "2026-06-28",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-06-29",
+      "next_due": "2026-07-02",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_09": {
       "introduced": false,
@@ -1465,6 +1465,19 @@
       "output_pdf": null,
       "sent_at": "2026-06-28T10:02:44",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "review",
+      "title": "Wiederholung: Strategie 8: Wähle deine Schlachten sorgfältig",
+      "items": [
+        "strategy_08",
+        "law_11"
+      ],
+      "output_json": "output/lessons/2026-06-29-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-06-29T11:16:07",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-8-wahle-deine-schlachten-sorgfaltig.epub"
     }
   ]
 }
