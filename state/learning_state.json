@@ -104,12 +104,12 @@
       "times_seen": 3
     },
     "law_12": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-07-01",
+      "last_seen": "2026-07-01",
+      "next_due": "2026-07-02",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_13": {
       "introduced": false,
@@ -1491,6 +1491,18 @@
       "output_pdf": null,
       "sent_at": "2026-06-30T10:06:00",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-5-schutze-deinen-ruf-um-jeden-preis.epub"
+    },
+    {
+      "date": "2026-07-01",
+      "type": "new_law",
+      "title": "Gesetz 12: Setze gezielte Ehrlichkeit und Großzügigkeit ein",
+      "items": [
+        "law_12"
+      ],
+      "output_json": "output/lessons/2026-07-01-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-01T10:36:23",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-12-setze-gezielte-ehrlichkeit-und-grozugigkeit-ein.epub"
     }
   ]
 }
