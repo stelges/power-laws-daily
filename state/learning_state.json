@@ -464,12 +464,12 @@
       "times_seen": 3
     },
     "strategy_09": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-07-03",
+      "last_seen": "2026-07-03",
+      "next_due": "2026-07-04",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_10": {
       "introduced": false,
@@ -1516,6 +1516,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-02T09:50:34",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-12-setze-gezielte-ehrlichkeit-und-grozugigkeit-ein.epub"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "new_strategy",
+      "title": "Strategie 9: Drehe den Spieß um",
+      "items": [
+        "strategy_09"
+      ],
+      "output_json": "output/lessons/2026-07-03-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-03T09:46:23",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-9-drehe-den-spie-um.epub"
     }
   ]
 }
