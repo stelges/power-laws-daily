@@ -50,10 +50,10 @@
     "law_05": {
       "introduced": true,
       "introduced_on": "2026-05-14",
-      "last_seen": "2026-06-30",
-      "next_due": "2026-08-29",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-07-05",
+      "next_due": "2026-09-03",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_06": {
       "introduced": true,
@@ -98,10 +98,10 @@
     "law_11": {
       "introduced": true,
       "introduced_on": "2026-06-25",
-      "last_seen": "2026-06-29",
-      "next_due": "2026-07-06",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-07-05",
+      "next_due": "2026-07-19",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_12": {
       "introduced": true,
@@ -426,10 +426,10 @@
     "strategy_04": {
       "introduced": true,
       "introduced_on": "2026-05-20",
-      "last_seen": "2026-06-30",
-      "next_due": "2026-08-29",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-07-05",
+      "next_due": "2026-09-03",
+      "review_count": 6,
+      "times_seen": 7
     },
     "strategy_05": {
       "introduced": true,
@@ -458,10 +458,10 @@
     "strategy_08": {
       "introduced": true,
       "introduced_on": "2026-06-27",
-      "last_seen": "2026-07-02",
-      "next_due": "2026-07-09",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-07-05",
+      "next_due": "2026-07-19",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_09": {
       "introduced": true,
@@ -1540,6 +1540,21 @@
       "output_pdf": null,
       "sent_at": "2026-07-04T09:23:43",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-9-drehe-den-spie-um.epub"
+    },
+    {
+      "date": "2026-07-05",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 8: Wähle deine Schlachten sorgfältig, Gesetz 11: Mache Menschen von dir abhängig, Gesetz 5: Schütze deinen Ruf um jeden Preis",
+      "items": [
+        "strategy_08",
+        "law_11",
+        "law_05",
+        "strategy_04"
+      ],
+      "output_json": "output/lessons/2026-07-05-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-05T09:43:30",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
