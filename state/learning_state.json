@@ -106,10 +106,10 @@
     "law_12": {
       "introduced": true,
       "introduced_on": "2026-07-01",
-      "last_seen": "2026-07-02",
-      "next_due": "2026-07-05",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-07-06",
+      "next_due": "2026-07-13",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_13": {
       "introduced": false,
@@ -1555,6 +1555,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-05T09:43:30",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-07-06",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 12: Setze gezielte Ehrlichkeit und Großzügigkeit ein",
+      "items": [
+        "law_12"
+      ],
+      "output_json": "output/lessons/2026-07-06-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-06T10:46:44",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-12-setze-gezielte-ehrlichkeit-und-grozugigkeit-ein.epub"
     }
   ]
 }
