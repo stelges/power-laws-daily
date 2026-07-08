@@ -112,12 +112,12 @@
       "times_seen": 3
     },
     "law_13": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "next_due": "2026-07-09",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_14": {
       "introduced": false,
@@ -1579,6 +1579,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-07T09:59:10",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-9-drehe-den-spie-um.epub"
+    },
+    {
+      "date": "2026-07-08",
+      "type": "new_law",
+      "title": "Gesetz 13: Appelliere an Eigeninteresse, nicht an Dankbarkeit",
+      "items": [
+        "law_13"
+      ],
+      "output_json": "output/lessons/2026-07-08-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-08T09:04:34",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-13-appelliere-an-eigeninteresse-nicht-an-dankbarkeit.epub"
     }
   ]
 }
