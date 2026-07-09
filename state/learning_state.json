@@ -114,10 +114,10 @@
     "law_13": {
       "introduced": true,
       "introduced_on": "2026-07-08",
-      "last_seen": "2026-07-08",
-      "next_due": "2026-07-09",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-07-09",
+      "next_due": "2026-07-12",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_14": {
       "introduced": false,
@@ -1591,6 +1591,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-08T09:04:34",
       "output_epub": "output/epub/gesetz-der-macht-nummer-13-appelliere-an-eigeninteresse-nicht-an-dankbarkeit.epub"
+    },
+    {
+      "date": "2026-07-09",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 13: Appelliere an Eigeninteresse, nicht an Dankbarkeit",
+      "items": [
+        "law_13"
+      ],
+      "output_json": "output/lessons/2026-07-09-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-09T10:01:14",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-13-appelliere-an-eigeninteresse-nicht-an-dankbarkeit.epub"
     }
   ]
 }
