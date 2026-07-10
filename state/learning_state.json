@@ -466,10 +466,10 @@
     "strategy_09": {
       "introduced": true,
       "introduced_on": "2026-07-03",
-      "last_seen": "2026-07-07",
-      "next_due": "2026-07-14",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-07-10",
+      "next_due": "2026-07-24",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_10": {
       "introduced": false,
@@ -1603,6 +1603,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-09T10:01:14",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-13-appelliere-an-eigeninteresse-nicht-an-dankbarkeit.epub"
+    },
+    {
+      "date": "2026-07-10",
+      "type": "application",
+      "title": "Mini-Fallanalyse: Strategie 9: Drehe den Spieß um",
+      "items": [
+        "strategy_09"
+      ],
+      "output_json": "output/lessons/2026-07-10-application.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-10T09:59:16",
+      "output_epub": "output/epub/mini-fallanalyse-strategie-9-drehe-den-spie-um.epub"
     }
   ]
 }

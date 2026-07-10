@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-10",
+  "title": "Tagesdosis Strategie & Macht",
+  "today_key": "application",
+  "today": "Anwendung / Mini-Fallanalyse",
+  "focus_title": "Mini-Fallanalyse: Strategie 9: Drehe den Spieß um",
+  "subtitle": "Eine reale Lage lesen, statt nur eine Regel zu merken.",
+  "intro": "Heute steht keine neue Regel im Vordergrund, sondern ihre Anwendung auf eine Lage.\n\nNutze Strategie 9: Drehe den Spieß um als Linse, um die Situation strategisch zu lesen.",
+  "source_item_ids": [
+    "strategy_09"
+  ],
+  "recall_questions": [
+    "Was ist in der Situation der sichtbare Konflikt?",
+    "Welche Emotion soll vermutlich ausgelöst werden?",
+    "Wie würde Strategie 9: Drehe den Spieß um die Lage deuten?"
+  ],
+  "sections": [
+    {
+      "heading": "Inhalt",
+      "body": "Fall: Du bist neu an einer Schule. Du hast eine starke Idee für ein MINT-/Technikprojekt, kennst aber die informellen Kräfte im Kollegium noch nicht."
+    },
+    {
+      "heading": "Kernmechanik",
+      "body": "Ruhige Defensive kann Angriffe ins Leere laufen lassen. Der Angreifer schwächt sich, wenn er überzieht."
+    },
+    {
+      "heading": "Warum das funktioniert",
+      "body": "Eine Mini-Fallanalyse zwingt dich, vom Begriff zur Lage zu wechseln: Wer will was, wer braucht wen, wer könnte sich bedroht fühlen, welche Handlung ist der nächste kleine Schritt?"
+    },
+    {
+      "heading": "Beispiel",
+      "body": "Prüfe eine aktuelle Situation aus Schule, Karriere, Politik, App-Business oder Selbstführung: Wo zeigt sich 'Drehe den Spieß um' konkret, und welcher nächste Schritt wäre ruhig, strategisch und integer?"
+    },
+    {
+      "heading": "Dunkle Anwendung",
+      "body": "Destruktiv wird diese Mechanik, wenn 'Drehe den Spieß um' genutzt wird, um Menschen zu täuschen, zu beschämen, abhängig zu machen oder Handlungsspielräume unfair zu verengen."
+    },
+    {
+      "heading": "Gegenmittel",
+      "body": "Langsam werden, Interessen klären, Verhalten statt Worte beobachten, eigene Grenzen schützen und nicht unter emotionalem Druck entscheiden."
+    }
+  ],
+  "quote": "Strategie beginnt, wenn du nicht mehr automatisch reagierst.",
+  "mini_task": "Beschreibe heute eine Situation mit zehn Stichworten: Ziel, Personen, Interessen, Emotion, Risiko, bester nächster Schritt.",
+  "output_json": "output/lessons/2026-07-10-application.json",
+  "output_pdf": "output/pdf/mini-fallanalyse-strategie-9-drehe-den-spie-um.pdf",
+  "output_epub": "output/epub/mini-fallanalyse-strategie-9-drehe-den-spie-um.epub"
+}
