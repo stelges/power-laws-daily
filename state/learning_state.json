@@ -120,12 +120,12 @@
       "times_seen": 2
     },
     "law_14": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "next_due": "2026-07-12",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_15": {
       "introduced": false,
@@ -1615,6 +1615,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-10T09:59:16",
       "output_epub": "output/epub/mini-fallanalyse-strategie-9-drehe-den-spie-um.epub"
+    },
+    {
+      "date": "2026-07-11",
+      "type": "new_law",
+      "title": "Gesetz 14: Gib dich als Freund aus, arbeite aber wie ein Spion",
+      "items": [
+        "law_14"
+      ],
+      "output_json": "output/lessons/2026-07-11-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-11T08:36:20",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-14-gib-dich-als-freund-aus-arbeite-aber-wie-ein-spion.epub"
     }
   ]
 }
