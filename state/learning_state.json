@@ -106,26 +106,26 @@
     "law_12": {
       "introduced": true,
       "introduced_on": "2026-07-01",
-      "last_seen": "2026-07-06",
-      "next_due": "2026-07-13",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-07-12",
+      "next_due": "2026-07-26",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_13": {
       "introduced": true,
       "introduced_on": "2026-07-08",
-      "last_seen": "2026-07-09",
-      "next_due": "2026-07-12",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-07-12",
+      "next_due": "2026-07-19",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_14": {
       "introduced": true,
       "introduced_on": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "next_due": "2026-07-12",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-07-12",
+      "next_due": "2026-07-15",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_15": {
       "introduced": false,
@@ -466,10 +466,10 @@
     "strategy_09": {
       "introduced": true,
       "introduced_on": "2026-07-03",
-      "last_seen": "2026-07-10",
-      "next_due": "2026-07-24",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-07-12",
+      "next_due": "2026-08-11",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_10": {
       "introduced": false,
@@ -1627,6 +1627,21 @@
       "output_pdf": null,
       "sent_at": "2026-07-11T08:36:20",
       "output_epub": "output/epub/gesetz-der-macht-nummer-14-gib-dich-als-freund-aus-arbeite-aber-wie-ein-spion.epub"
+    },
+    {
+      "date": "2026-07-12",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 12: Setze gezielte Ehrlichkeit und Großzügigkeit ein, Strategie 9: Drehe den Spieß um, Gesetz 13: Appelliere an Eigeninteresse, nicht an Dankbarkeit",
+      "items": [
+        "law_12",
+        "strategy_09",
+        "law_13",
+        "law_14"
+      ],
+      "output_json": "output/lessons/2026-07-12-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-12T09:07:30",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
