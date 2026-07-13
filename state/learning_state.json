@@ -472,12 +472,12 @@
       "times_seen": 5
     },
     "strategy_10": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "next_due": "2026-07-14",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_11": {
       "introduced": false,
@@ -1642,6 +1642,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-12T09:07:30",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-07-13",
+      "type": "new_strategy",
+      "title": "Strategie 10: Schaffe eine bedrohliche Präsenz",
+      "items": [
+        "strategy_10"
+      ],
+      "output_json": "output/lessons/2026-07-13-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-13T09:48:36",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-10-schaffe-eine-bedrohliche-prasenz.epub"
     }
   ]
 }
