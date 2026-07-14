@@ -442,10 +442,10 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-06-14",
-      "next_due": "2026-07-14",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-07-14",
+      "next_due": "2026-09-12",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_07": {
       "introduced": true,
@@ -474,10 +474,10 @@
     "strategy_10": {
       "introduced": true,
       "introduced_on": "2026-07-13",
-      "last_seen": "2026-07-13",
-      "next_due": "2026-07-14",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-07-14",
+      "next_due": "2026-07-17",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_11": {
       "introduced": false,
@@ -1654,6 +1654,19 @@
       "output_pdf": null,
       "sent_at": "2026-07-13T09:48:36",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-10-schaffe-eine-bedrohliche-prasenz.epub"
+    },
+    {
+      "date": "2026-07-14",
+      "type": "review",
+      "title": "Wiederholung: Strategie 10: Schaffe eine bedrohliche Präsenz",
+      "items": [
+        "strategy_10",
+        "strategy_06"
+      ],
+      "output_json": "output/lessons/2026-07-14-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-14T08:35:31",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-10-schaffe-eine-bedrohliche-prasenz.epub"
     }
   ]
 }
