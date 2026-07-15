@@ -122,10 +122,10 @@
     "law_14": {
       "introduced": true,
       "introduced_on": "2026-07-11",
-      "last_seen": "2026-07-12",
-      "next_due": "2026-07-15",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-07-15",
+      "next_due": "2026-07-22",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_15": {
       "introduced": false,
@@ -1667,6 +1667,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-14T08:35:31",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-10-schaffe-eine-bedrohliche-prasenz.epub"
+    },
+    {
+      "date": "2026-07-15",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 14: Gib dich als Freund aus, arbeite aber wie ein Spion",
+      "items": [
+        "law_14"
+      ],
+      "output_json": "output/lessons/2026-07-15-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-15T08:36:41",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-14-gib-dich-als-freund-aus-arbeite-aber-wie-ein-spion.epub"
     }
   ]
 }
