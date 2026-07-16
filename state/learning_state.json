@@ -128,12 +128,12 @@
       "times_seen": 3
     },
     "law_15": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "next_due": "2026-07-17",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_16": {
       "introduced": false,
@@ -1679,6 +1679,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-15T08:36:41",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-14-gib-dich-als-freund-aus-arbeite-aber-wie-ein-spion.epub"
+    },
+    {
+      "date": "2026-07-16",
+      "type": "new_law",
+      "title": "Gesetz 15: Vernichte deinen Feind vollständig",
+      "items": [
+        "law_15"
+      ],
+      "output_json": "output/lessons/2026-07-16-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-16T09:01:18",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-15-vernichte-deinen-feind-vollstandig.epub"
     }
   ]
 }
