@@ -82,10 +82,10 @@
     "law_09": {
       "introduced": true,
       "introduced_on": "2026-06-10",
-      "last_seen": "2026-06-18",
-      "next_due": "2026-07-18",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-07-18",
+      "next_due": "2026-09-16",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_10": {
       "introduced": true,
@@ -1704,6 +1704,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-17T08:39:43",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-15-vernichte-deinen-feind-vollstandig.epub"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 9: Gewinne durch Taten, nicht durch Argumente",
+      "items": [
+        "law_09"
+      ],
+      "output_json": "output/lessons/2026-07-18-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-18T08:28:48",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-9-gewinne-durch-taten-nicht-durch-argumente.epub"
     }
   ]
 }
