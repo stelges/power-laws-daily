@@ -122,18 +122,18 @@
     "law_14": {
       "introduced": true,
       "introduced_on": "2026-07-11",
-      "last_seen": "2026-07-15",
-      "next_due": "2026-07-22",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-07-19",
+      "next_due": "2026-08-02",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_15": {
       "introduced": true,
       "introduced_on": "2026-07-16",
-      "last_seen": "2026-07-17",
-      "next_due": "2026-07-20",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-07-19",
+      "next_due": "2026-07-26",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_16": {
       "introduced": false,
@@ -442,10 +442,10 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-07-14",
-      "next_due": "2026-09-12",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-07-19",
+      "next_due": "2026-09-17",
+      "review_count": 6,
+      "times_seen": 7
     },
     "strategy_07": {
       "introduced": true,
@@ -474,10 +474,10 @@
     "strategy_10": {
       "introduced": true,
       "introduced_on": "2026-07-13",
-      "last_seen": "2026-07-17",
-      "next_due": "2026-07-24",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-07-19",
+      "next_due": "2026-08-02",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_11": {
       "introduced": false,
@@ -1716,6 +1716,21 @@
       "output_pdf": null,
       "sent_at": "2026-07-18T08:28:48",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-9-gewinne-durch-taten-nicht-durch-argumente.epub"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 10: Schaffe eine bedrohliche Präsenz, Strategie 6: Segmentiere deine Kräfte, Gesetz 14: Gib dich als Freund aus, arbeite aber wie ein Spion",
+      "items": [
+        "strategy_10",
+        "strategy_06",
+        "law_14",
+        "law_15"
+      ],
+      "output_json": "output/lessons/2026-07-19-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-19T09:05:55",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
