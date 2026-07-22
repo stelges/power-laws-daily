@@ -474,10 +474,10 @@
     "strategy_10": {
       "introduced": true,
       "introduced_on": "2026-07-13",
-      "last_seen": "2026-07-19",
-      "next_due": "2026-08-02",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-07-22",
+      "next_due": "2026-08-21",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_11": {
       "introduced": false,
@@ -1757,6 +1757,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-21T09:10:43",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-8-wahle-deine-schlachten-sorgfaltig.epub"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "application",
+      "title": "Mini-Fallanalyse: Strategie 10: Schaffe eine bedrohliche Präsenz",
+      "items": [
+        "strategy_10"
+      ],
+      "output_json": "output/lessons/2026-07-22-application.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-22T09:13:14",
+      "output_epub": "output/epub/mini-fallanalyse-strategie-10-schaffe-eine-bedrohliche-prasenz.epub"
     }
   ]
 }
