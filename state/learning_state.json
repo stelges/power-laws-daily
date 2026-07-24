@@ -130,10 +130,10 @@
     "law_15": {
       "introduced": true,
       "introduced_on": "2026-07-16",
-      "last_seen": "2026-07-19",
-      "next_due": "2026-07-26",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-07-24",
+      "next_due": "2026-08-07",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_16": {
       "introduced": false,
@@ -474,10 +474,10 @@
     "strategy_10": {
       "introduced": true,
       "introduced_on": "2026-07-13",
-      "last_seen": "2026-07-22",
-      "next_due": "2026-08-21",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-07-24",
+      "next_due": "2026-09-22",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_11": {
       "introduced": false,
@@ -1782,6 +1782,19 @@
       "output_pdf": null,
       "sent_at": "2026-07-23T09:06:48",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-1-stelle-deinen-meister-nie-in-den-schatten.epub"
+    },
+    {
+      "date": "2026-07-24",
+      "type": "comparison",
+      "title": "Gesetz 15: Vernichte deinen Feind vollständig vs. Strategie 10: Schaffe eine bedrohliche Präsenz",
+      "items": [
+        "law_15",
+        "strategy_10"
+      ],
+      "output_json": "output/lessons/2026-07-24-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-24T09:08:57",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-15-vernichte-deinen-feind-vollstandig-vs-strategie-10-schaffe-eine-bedrohliche-prasenz.epub"
     }
   ]
 }
