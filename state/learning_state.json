@@ -480,12 +480,12 @@
       "times_seen": 6
     },
     "strategy_11": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "next_due": "2026-07-26",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_12": {
       "introduced": false,
@@ -1795,6 +1795,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-24T09:08:57",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-15-vernichte-deinen-feind-vollstandig-vs-strategie-10-schaffe-eine-bedrohliche-prasenz.epub"
+    },
+    {
+      "date": "2026-07-25",
+      "type": "new_strategy",
+      "title": "Strategie 11: Tausche Raum gegen Zeit",
+      "items": [
+        "strategy_11"
+      ],
+      "output_json": "output/lessons/2026-07-25-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-25T08:38:54",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-11-tausche-raum-gegen-zeit.epub"
     }
   ]
 }
