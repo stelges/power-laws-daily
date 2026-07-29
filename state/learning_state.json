@@ -136,12 +136,12 @@
       "times_seen": 4
     },
     "law_16": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "next_due": "2026-07-30",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_17": {
       "introduced": false,
@@ -1847,6 +1847,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-28T09:16:24",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-10-meide-ungluckliche-und-pechvogel.epub"
+    },
+    {
+      "date": "2026-07-29",
+      "type": "new_law",
+      "title": "Gesetz 16: Nutze Abwesenheit, um Respekt und Wert zu steigern",
+      "items": [
+        "law_16"
+      ],
+      "output_json": "output/lessons/2026-07-29-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-29T09:21:23",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-16-nutze-abwesenheit-um-respekt-und-wert-zu-steigern.epub"
     }
   ]
 }
