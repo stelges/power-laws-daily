@@ -34,10 +34,10 @@
     "law_03": {
       "introduced": true,
       "introduced_on": "2026-05-04",
-      "last_seen": "2026-05-31",
-      "next_due": "2026-07-30",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-07-31",
+      "next_due": "2026-09-29",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_04": {
       "introduced": true,
@@ -1872,6 +1872,18 @@
       "output_pdf": null,
       "sent_at": "2026-07-30T09:14:43",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-16-nutze-abwesenheit-um-respekt-und-wert-zu-steigern.epub"
+    },
+    {
+      "date": "2026-07-31",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 3: Verberge deine Absichten",
+      "items": [
+        "law_03"
+      ],
+      "output_json": "output/lessons/2026-07-31-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-07-31T09:23:04",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-3-verberge-deine-absichten.epub"
     }
   ]
 }
