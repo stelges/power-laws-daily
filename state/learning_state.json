@@ -90,10 +90,10 @@
     "law_10": {
       "introduced": true,
       "introduced_on": "2026-06-19",
-      "last_seen": "2026-07-28",
-      "next_due": "2026-09-26",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-08-02",
+      "next_due": "2026-10-01",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_11": {
       "introduced": true,
@@ -106,10 +106,10 @@
     "law_12": {
       "introduced": true,
       "introduced_on": "2026-07-01",
-      "last_seen": "2026-07-27",
-      "next_due": "2026-08-26",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-08-02",
+      "next_due": "2026-10-01",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_13": {
       "introduced": true,
@@ -138,10 +138,10 @@
     "law_16": {
       "introduced": true,
       "introduced_on": "2026-07-29",
-      "last_seen": "2026-07-30",
-      "next_due": "2026-08-02",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-08-02",
+      "next_due": "2026-08-09",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_17": {
       "introduced": true,
@@ -482,10 +482,10 @@
     "strategy_11": {
       "introduced": true,
       "introduced_on": "2026-07-25",
-      "last_seen": "2026-07-30",
-      "next_due": "2026-08-06",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-08-02",
+      "next_due": "2026-08-16",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_12": {
       "introduced": false,
@@ -1896,6 +1896,21 @@
       "output_pdf": null,
       "sent_at": "2026-08-01T09:03:19",
       "output_epub": "output/epub/gesetz-der-macht-nummer-17-halte-andere-in-unsicherheit-und-unberechenbarkeit.epub"
+    },
+    {
+      "date": "2026-08-02",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 11: Tausche Raum gegen Zeit, Gesetz 12: Setze gezielte Ehrlichkeit und Großzügigkeit ein, Gesetz 10: Meide Unglückliche und Pechvögel",
+      "items": [
+        "strategy_11",
+        "law_12",
+        "law_10",
+        "law_16"
+      ],
+      "output_json": "output/lessons/2026-08-02-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-02T09:07:09",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
