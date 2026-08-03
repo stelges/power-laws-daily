@@ -122,10 +122,10 @@
     "law_14": {
       "introduced": true,
       "introduced_on": "2026-07-11",
-      "last_seen": "2026-07-19",
-      "next_due": "2026-08-02",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-08-03",
+      "next_due": "2026-09-02",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_15": {
       "introduced": true,
@@ -146,10 +146,10 @@
     "law_17": {
       "introduced": true,
       "introduced_on": "2026-08-01",
-      "last_seen": "2026-08-01",
-      "next_due": "2026-08-02",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-08-03",
+      "next_due": "2026-08-06",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_18": {
       "introduced": false,
@@ -1911,6 +1911,19 @@
       "output_pdf": null,
       "sent_at": "2026-08-02T09:07:09",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 17: Halte andere in Unsicherheit und Unberechenbarkeit",
+      "items": [
+        "law_17",
+        "law_14"
+      ],
+      "output_json": "output/lessons/2026-08-03-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-03T09:57:29",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-17-halte-andere-in-unsicherheit-und-unberechenbarkeit.epub"
     }
   ]
 }
