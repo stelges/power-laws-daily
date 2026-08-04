@@ -488,12 +488,12 @@
       "times_seen": 4
     },
     "strategy_12": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "next_due": "2026-08-05",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_13": {
       "introduced": false,
@@ -1924,6 +1924,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-03T09:57:29",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-17-halte-andere-in-unsicherheit-und-unberechenbarkeit.epub"
+    },
+    {
+      "date": "2026-08-04",
+      "type": "new_strategy",
+      "title": "Strategie 12: Verliere Schlachten, aber gewinne den Krieg",
+      "items": [
+        "strategy_12"
+      ],
+      "output_json": "output/lessons/2026-08-04-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-04T09:15:10",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-12-verliere-schlachten-aber-gewinne-den-krieg.epub"
     }
   ]
 }
