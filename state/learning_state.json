@@ -490,10 +490,10 @@
     "strategy_12": {
       "introduced": true,
       "introduced_on": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "next_due": "2026-08-05",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-08-05",
+      "next_due": "2026-08-08",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_13": {
       "introduced": false,
@@ -1936,6 +1936,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-04T09:15:10",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-12-verliere-schlachten-aber-gewinne-den-krieg.epub"
+    },
+    {
+      "date": "2026-08-05",
+      "type": "review",
+      "title": "Wiederholung: Strategie 12: Verliere Schlachten, aber gewinne den Krieg",
+      "items": [
+        "strategy_12"
+      ],
+      "output_json": "output/lessons/2026-08-05-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-05T09:16:02",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-12-verliere-schlachten-aber-gewinne-den-krieg.epub"
     }
   ]
 }
