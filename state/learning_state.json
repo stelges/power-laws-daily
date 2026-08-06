@@ -42,10 +42,10 @@
     "law_04": {
       "introduced": true,
       "introduced_on": "2026-05-12",
-      "last_seen": "2026-06-07",
-      "next_due": "2026-08-06",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-08-06",
+      "next_due": "2026-10-05",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_05": {
       "introduced": true,
@@ -146,10 +146,10 @@
     "law_17": {
       "introduced": true,
       "introduced_on": "2026-08-01",
-      "last_seen": "2026-08-03",
-      "next_due": "2026-08-06",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-08-06",
+      "next_due": "2026-08-13",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_18": {
       "introduced": false,
@@ -1948,6 +1948,19 @@
       "output_pdf": null,
       "sent_at": "2026-08-05T09:16:02",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-12-verliere-schlachten-aber-gewinne-den-krieg.epub"
+    },
+    {
+      "date": "2026-08-06",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 17: Halte andere in Unsicherheit und Unberechenbarkeit",
+      "items": [
+        "law_17",
+        "law_04"
+      ],
+      "output_json": "output/lessons/2026-08-06-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-06T09:17:01",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-17-halte-andere-in-unsicherheit-und-unberechenbarkeit.epub"
     }
   ]
 }
