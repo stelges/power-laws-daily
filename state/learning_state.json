@@ -130,10 +130,10 @@
     "law_15": {
       "introduced": true,
       "introduced_on": "2026-07-16",
-      "last_seen": "2026-07-24",
-      "next_due": "2026-08-07",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-08-07",
+      "next_due": "2026-09-06",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_16": {
       "introduced": true,
@@ -1961,6 +1961,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-06T09:17:01",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-17-halte-andere-in-unsicherheit-und-unberechenbarkeit.epub"
+    },
+    {
+      "date": "2026-08-07",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 15: Vernichte deinen Feind vollständig",
+      "items": [
+        "law_15"
+      ],
+      "output_json": "output/lessons/2026-08-07-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-07T07:55:55",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-15-vernichte-deinen-feind-vollstandig.epub"
     }
   ]
 }
