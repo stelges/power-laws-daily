@@ -42,10 +42,10 @@
     "law_04": {
       "introduced": true,
       "introduced_on": "2026-05-12",
-      "last_seen": "2026-08-06",
-      "next_due": "2026-10-05",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-08-09",
+      "next_due": "2026-10-08",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_05": {
       "introduced": true,
@@ -122,10 +122,10 @@
     "law_14": {
       "introduced": true,
       "introduced_on": "2026-07-11",
-      "last_seen": "2026-08-03",
-      "next_due": "2026-09-02",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-08-09",
+      "next_due": "2026-10-08",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_15": {
       "introduced": true,
@@ -146,10 +146,10 @@
     "law_17": {
       "introduced": true,
       "introduced_on": "2026-08-01",
-      "last_seen": "2026-08-06",
-      "next_due": "2026-08-13",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-08-09",
+      "next_due": "2026-08-23",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_18": {
       "introduced": false,
@@ -490,10 +490,10 @@
     "strategy_12": {
       "introduced": true,
       "introduced_on": "2026-08-04",
-      "last_seen": "2026-08-08",
-      "next_due": "2026-08-15",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-08-09",
+      "next_due": "2026-08-23",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_13": {
       "introduced": false,
@@ -1985,6 +1985,21 @@
       "output_pdf": null,
       "sent_at": "2026-08-08T07:20:43",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-12-verliere-schlachten-aber-gewinne-den-krieg.epub"
+    },
+    {
+      "date": "2026-08-09",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 17: Halte andere in Unsicherheit und Unberechenbarkeit, Gesetz 14: Gib dich als Freund aus, arbeite aber wie ein Spion, Strategie 12: Verliere Schlachten, aber gewinne den Krieg",
+      "items": [
+        "law_17",
+        "law_14",
+        "strategy_12",
+        "law_04"
+      ],
+      "output_json": "output/lessons/2026-08-09-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-09T07:28:46",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
