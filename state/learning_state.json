@@ -138,10 +138,10 @@
     "law_16": {
       "introduced": true,
       "introduced_on": "2026-07-29",
-      "last_seen": "2026-08-02",
-      "next_due": "2026-08-09",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-08-10",
+      "next_due": "2026-08-24",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_17": {
       "introduced": true,
@@ -2000,6 +2000,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-09T07:28:46",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 16: Nutze Abwesenheit, um Respekt und Wert zu steigern",
+      "items": [
+        "law_16"
+      ],
+      "output_json": "output/lessons/2026-08-10-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-10T07:55:37",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-16-nutze-abwesenheit-um-respekt-und-wert-zu-steigern.epub"
     }
   ]
 }
