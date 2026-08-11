@@ -466,10 +466,10 @@
     "strategy_09": {
       "introduced": true,
       "introduced_on": "2026-07-03",
-      "last_seen": "2026-07-12",
-      "next_due": "2026-08-11",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-08-11",
+      "next_due": "2026-10-10",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_10": {
       "introduced": true,
@@ -2012,6 +2012,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-10T07:55:37",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-16-nutze-abwesenheit-um-respekt-und-wert-zu-steigern.epub"
+    },
+    {
+      "date": "2026-08-11",
+      "type": "review",
+      "title": "Wiederholung: Strategie 9: Drehe den Spieß um",
+      "items": [
+        "strategy_09"
+      ],
+      "output_json": "output/lessons/2026-08-11-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-11T07:36:16",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-9-drehe-den-spie-um.epub"
     }
   ]
 }
