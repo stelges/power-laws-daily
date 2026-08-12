@@ -152,12 +152,12 @@
       "times_seen": 4
     },
     "law_18": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "next_due": "2026-08-13",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_19": {
       "introduced": false,
@@ -2024,6 +2024,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-11T07:36:16",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-9-drehe-den-spie-um.epub"
+    },
+    {
+      "date": "2026-08-12",
+      "type": "new_law",
+      "title": "Gesetz 18: Baue keine Festungen, um dich zu schützen",
+      "items": [
+        "law_18"
+      ],
+      "output_json": "output/lessons/2026-08-12-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-12T08:01:58",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-18-baue-keine-festungen-um-dich-zu-schutzen.epub"
     }
   ]
 }
