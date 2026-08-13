@@ -154,10 +154,10 @@
     "law_18": {
       "introduced": true,
       "introduced_on": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "next_due": "2026-08-13",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-08-13",
+      "next_due": "2026-08-16",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_19": {
       "introduced": false,
@@ -410,10 +410,10 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-06-14",
-      "next_due": "2026-08-13",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-08-13",
+      "next_due": "2026-10-12",
+      "review_count": 7,
+      "times_seen": 8
     },
     "strategy_03": {
       "introduced": true,
@@ -2036,6 +2036,19 @@
       "output_pdf": null,
       "sent_at": "2026-08-12T08:01:58",
       "output_epub": "output/epub/gesetz-der-macht-nummer-18-baue-keine-festungen-um-dich-zu-schutzen.epub"
+    },
+    {
+      "date": "2026-08-13",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 18: Baue keine Festungen, um dich zu schützen",
+      "items": [
+        "law_18",
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-08-13-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-13T07:58:42",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-18-baue-keine-festungen-um-dich-zu-schutzen.epub"
     }
   ]
 }
