@@ -496,12 +496,12 @@
       "times_seen": 4
     },
     "strategy_13": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "next_due": "2026-08-15",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_14": {
       "introduced": false,
@@ -2049,6 +2049,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-13T07:58:42",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-18-baue-keine-festungen-um-dich-zu-schutzen.epub"
+    },
+    {
+      "date": "2026-08-14",
+      "type": "new_strategy",
+      "title": "Strategie 13: Kenne deinen Gegner",
+      "items": [
+        "strategy_13"
+      ],
+      "output_json": "output/lessons/2026-08-14-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-14T07:57:14",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-13-kenne-deinen-gegner.epub"
     }
   ]
 }
