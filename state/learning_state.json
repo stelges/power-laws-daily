@@ -138,10 +138,10 @@
     "law_16": {
       "introduced": true,
       "introduced_on": "2026-07-29",
-      "last_seen": "2026-08-10",
-      "next_due": "2026-08-24",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-08-16",
+      "next_due": "2026-09-15",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_17": {
       "introduced": true,
@@ -154,10 +154,10 @@
     "law_18": {
       "introduced": true,
       "introduced_on": "2026-08-12",
-      "last_seen": "2026-08-13",
-      "next_due": "2026-08-16",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-08-16",
+      "next_due": "2026-08-23",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_19": {
       "introduced": false,
@@ -410,10 +410,10 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-08-13",
-      "next_due": "2026-10-12",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-08-16",
+      "next_due": "2026-10-15",
+      "review_count": 8,
+      "times_seen": 9
     },
     "strategy_03": {
       "introduced": true,
@@ -466,10 +466,10 @@
     "strategy_09": {
       "introduced": true,
       "introduced_on": "2026-07-03",
-      "last_seen": "2026-08-11",
-      "next_due": "2026-10-10",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-08-16",
+      "next_due": "2026-10-15",
+      "review_count": 6,
+      "times_seen": 7
     },
     "strategy_10": {
       "introduced": true,
@@ -2073,6 +2073,21 @@
       "output_pdf": null,
       "sent_at": "2026-08-15T06:57:23",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-13-kenne-deinen-gegner.epub"
+    },
+    {
+      "date": "2026-08-16",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 16: Nutze Abwesenheit, um Respekt und Wert zu steigern, Strategie 9: Drehe den Spieß um, Gesetz 18: Baue keine Festungen, um dich zu schützen",
+      "items": [
+        "law_16",
+        "strategy_09",
+        "law_18",
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-08-16-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-16T07:01:07",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
