@@ -482,10 +482,10 @@
     "strategy_11": {
       "introduced": true,
       "introduced_on": "2026-07-25",
-      "last_seen": "2026-08-02",
-      "next_due": "2026-08-16",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-08-17",
+      "next_due": "2026-09-16",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_12": {
       "introduced": true,
@@ -2088,6 +2088,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-16T07:01:07",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-08-17",
+      "type": "review",
+      "title": "Wiederholung: Strategie 11: Tausche Raum gegen Zeit",
+      "items": [
+        "strategy_11"
+      ],
+      "output_json": "output/lessons/2026-08-17-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-17T07:09:46",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-11-tausche-raum-gegen-zeit.epub"
     }
   ]
 }
