@@ -498,10 +498,10 @@
     "strategy_13": {
       "introduced": true,
       "introduced_on": "2026-08-14",
-      "last_seen": "2026-08-15",
-      "next_due": "2026-08-18",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-08-18",
+      "next_due": "2026-08-25",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_14": {
       "introduced": false,
@@ -2100,6 +2100,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-17T07:09:46",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-11-tausche-raum-gegen-zeit.epub"
+    },
+    {
+      "date": "2026-08-18",
+      "type": "review",
+      "title": "Wiederholung: Strategie 13: Kenne deinen Gegner",
+      "items": [
+        "strategy_13"
+      ],
+      "output_json": "output/lessons/2026-08-18-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-18T07:03:24",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-13-kenne-deinen-gegner.epub"
     }
   ]
 }
