@@ -498,10 +498,10 @@
     "strategy_13": {
       "introduced": true,
       "introduced_on": "2026-08-14",
-      "last_seen": "2026-08-18",
-      "next_due": "2026-08-25",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-08-19",
+      "next_due": "2026-09-02",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_14": {
       "introduced": false,
@@ -2112,6 +2112,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-18T07:03:24",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-13-kenne-deinen-gegner.epub"
+    },
+    {
+      "date": "2026-08-19",
+      "type": "application",
+      "title": "Mini-Fallanalyse: Strategie 13: Kenne deinen Gegner",
+      "items": [
+        "strategy_13"
+      ],
+      "output_json": "output/lessons/2026-08-19-application.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-19T07:03:08",
+      "output_epub": "output/epub/mini-fallanalyse-strategie-13-kenne-deinen-gegner.epub"
     }
   ]
 }
