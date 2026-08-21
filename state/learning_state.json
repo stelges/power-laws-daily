@@ -160,12 +160,12 @@
       "times_seen": 3
     },
     "law_19": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "next_due": "2026-08-22",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_20": {
       "introduced": false,
@@ -2137,6 +2137,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-20T07:04:32",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-6-ziehe-um-jeden-preis-aufmerksamkeit-auf-dich.epub"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "new_law",
+      "title": "Gesetz 19: Wisse, mit wem du es zu tun hast",
+      "items": [
+        "law_19"
+      ],
+      "output_json": "output/lessons/2026-08-21-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-21T07:05:15",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-19-wisse-mit-wem-du-es-zu-tun-hast.epub"
     }
   ]
 }

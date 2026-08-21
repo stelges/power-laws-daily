@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-21",
+  "title": "Tagesdosis Strategie & Macht",
+  "today_key": "new_law",
+  "today": "Neues Gesetz",
+  "focus_title": "Gesetz 19: Wisse, mit wem du es zu tun hast",
+  "subtitle": "Ein klarer Fokus für 10-15 Minuten.",
+  "intro": "Du hast bisher an Sichtbarkeit, Ruf, Status und Selbstführung gearbeitet.\nHeute kommt ein Gesetz dazu, das dein Verhalten im Hintergrund steuert:\n\nStrategie ohne Menschenkenntnis ist blind. Ton, Timing und Direktheit müssen zur Person passen.",
+  "source_item_ids": [
+    "law_19"
+  ],
+  "recall_questions": [
+    "Wo hast du Menschenkenntnis zuletzt in einer Gruppe oder Konferenz beobachtet?",
+    "Was passiert, wenn jemand Menschenkenntnis unterschätzt?",
+    "Wie könntest du Wisse, mit wem du es zu tun hast integer nutzen, ohne Spielchen daraus zu machen?"
+  ],
+  "sections": [
+    {
+      "heading": "Gesetz(e)",
+      "body": "Gesetz 19: Wisse, mit wem du es zu tun hast"
+    },
+    {
+      "heading": "Kernmechanik",
+      "body": "Strategie ohne Menschenkenntnis ist blind. Ton, Timing und Direktheit müssen zur Person passen.\n\nDiese Mechanik wirkt, weil soziale Systeme nicht nur auf Fakten reagieren, sondern auf Signale: Wer spricht, wer schweigt, wer den Rahmen setzt, wer unsicher wirkt und wer ruhig bleibt.\n\nTypische Auslöser:\n\n* Menschen wollen Menschenkenntnis sichern oder zurückgewinnen\n* Unsicherheit wird durch schnelle Reaktion überspielt\n* Gruppen bewerten nicht nur Inhalt, sondern Auftreten\n* kleine Signale werden später als Muster erinnert\n\nStrategischer Kern:\n\nStrategie ohne Menschenkenntnis ist blind. Ton, Timing und Direktheit müssen zur Person passen."
+    },
+    {
+      "heading": "Beispiel: Schule / Konferenz",
+      "body": "Situation: Schule / Konferenz.\n\nDu bemerkst eine Dynamik rund um Wisse, mit wem du es zu tun hast. Jetzt hast du zwei Möglichkeiten.\n\nVariante A:\n\nDu reagierst sofort, erklärst dich zu stark oder versuchst, die Lage frontal zu kontrollieren.\n\nWirkung:\n\n* reaktiv\n* emotional lesbar\n* leichter angreifbar\n* weniger führend\n\nVariante B:\n\nDu hältst kurz inne, liest Interessen und Statussignale, und formulierst einen ruhigen nächsten Schritt.\n\nWirkung:\n\n* klar\n* strukturiert\n* souverän\n* anschlussfähig\n\nPrüfe eine aktuelle Situation aus Schule, Karriere, Politik, App-Business oder Selbstführung: Wo zeigt sich 'Wisse, mit wem du es zu tun hast' konkret, und welcher nächste Schritt wäre ruhig, strategisch und integer?"
+    },
+    {
+      "heading": "Dunkle Anwendung",
+      "body": "Manipulativ genutzt:\n\n* Menschenkenntnis bewusst ausnutzen, statt transparent zu handeln\n* andere im Unklaren lassen, um Kontrolle zu behalten\n* Schwächen sammeln, statt Probleme fair zu klären\n* Druck erzeugen, während man selbst ruhig und überlegen wirkt\n\nDas kann kurzfristig Einfluss verschaffen, erzeugt aber Misstrauen, Abwehr und verdeckte Gegenspieler.\n\nDestruktiv wird diese Mechanik, wenn 'Wisse, mit wem du es zu tun hast' genutzt wird, um Menschen zu täuschen, zu beschämen, abhängig zu machen oder Handlungsspielräume unfair zu verengen."
+    },
+    {
+      "heading": "Gegenmittel",
+      "body": "Wenn jemand diese Mechanik gegen dich nutzt:\n\nAchte auf:\n\n* unklare Aussagen\n* plötzliche Informationslücken\n* emotionalen Druck\n* strategisches Ausweichen\n\nDein Umgang:\n\n* stelle präzise Nachfragen\n* zwinge zur Konkretisierung\n* dokumentiere Absprachen\n* bleibe ruhig, nicht defensiv\n\nEigener integrer Weg:\n\n* klar statt laut handeln\n* wichtige Dinge bewusst platzieren\n* Interessen prüfen, bevor du reagierst\n* keine Spielchen, aber Struktur\n\nMerksatz:\n\nStrategie ohne Menschenkenntnis ist blind. Ton, Timing und Direktheit müssen zur Person passen."
+    }
+  ],
+  "quote": "Strategie ohne Menschenkenntnis ist blind. Ton, Timing und Direktheit müssen zur Person passen.",
+  "mini_task": "Achte heute bewusst auf eine reale Situation:\n\n1. Wo taucht Wisse, mit wem du es zu tun hast in kleiner Form auf?\n2. Welche Person, welches Interesse und welche Emotion spielen mit?\n3. Was ist ein ruhiger, präziser nächster Schritt?\n\nSetze eine kleine Handlung um oder schreibe sie in drei Sätzen auf.",
+  "output_json": "output/lessons/2026-08-21-new-law.json",
+  "output_pdf": "output/pdf/gesetz-der-macht-nummer-19-wisse-mit-wem-du-es-zu-tun-hast.pdf",
+  "output_epub": "output/epub/gesetz-der-macht-nummer-19-wisse-mit-wem-du-es-zu-tun-hast.epub"
+}
