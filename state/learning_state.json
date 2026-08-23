@@ -26,10 +26,10 @@
     "law_02": {
       "introduced": true,
       "introduced_on": "2026-04-30",
-      "last_seen": "2026-08-20",
-      "next_due": "2026-10-19",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-08-23",
+      "next_due": "2026-10-22",
+      "review_count": 8,
+      "times_seen": 9
     },
     "law_03": {
       "introduced": true,
@@ -58,10 +58,10 @@
     "law_06": {
       "introduced": true,
       "introduced_on": "2026-05-22",
-      "last_seen": "2026-08-20",
-      "next_due": "2026-10-19",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-08-23",
+      "next_due": "2026-10-22",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_07": {
       "introduced": true,
@@ -482,10 +482,10 @@
     "strategy_11": {
       "introduced": true,
       "introduced_on": "2026-07-25",
-      "last_seen": "2026-08-17",
-      "next_due": "2026-09-16",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-08-23",
+      "next_due": "2026-10-22",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_12": {
       "introduced": true,
@@ -498,10 +498,10 @@
     "strategy_13": {
       "introduced": true,
       "introduced_on": "2026-08-14",
-      "last_seen": "2026-08-19",
-      "next_due": "2026-09-02",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-08-23",
+      "next_due": "2026-09-22",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_14": {
       "introduced": false,
@@ -2161,6 +2161,21 @@
       "output_pdf": null,
       "sent_at": "2026-08-22T07:00:21",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-19-wisse-mit-wem-du-es-zu-tun-hast.epub"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 11: Tausche Raum gegen Zeit, Strategie 13: Kenne deinen Gegner, Gesetz 6: Ziehe um jeden Preis Aufmerksamkeit auf dich",
+      "items": [
+        "strategy_11",
+        "strategy_13",
+        "law_06",
+        "law_02"
+      ],
+      "output_json": "output/lessons/2026-08-23-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-23T07:02:42",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
