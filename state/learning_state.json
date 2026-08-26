@@ -114,10 +114,10 @@
     "law_13": {
       "introduced": true,
       "introduced_on": "2026-07-08",
-      "last_seen": "2026-07-26",
-      "next_due": "2026-08-25",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-08-26",
+      "next_due": "2026-10-25",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_14": {
       "introduced": true,
@@ -162,10 +162,10 @@
     "law_19": {
       "introduced": true,
       "introduced_on": "2026-08-21",
-      "last_seen": "2026-08-22",
-      "next_due": "2026-08-25",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-08-26",
+      "next_due": "2026-09-02",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_20": {
       "introduced": false,
@@ -2202,6 +2202,19 @@
       "output_pdf": null,
       "sent_at": "2026-08-25T07:06:11",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-12-verliere-schlachten-aber-gewinne-den-krieg.epub"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 19: Wisse, mit wem du es zu tun hast",
+      "items": [
+        "law_19",
+        "law_13"
+      ],
+      "output_json": "output/lessons/2026-08-26-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-26T07:06:07",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-19-wisse-mit-wem-du-es-zu-tun-hast.epub"
     }
   ]
 }
