@@ -66,10 +66,10 @@
     "law_07": {
       "introduced": true,
       "introduced_on": "2026-05-30",
-      "last_seen": "2026-06-28",
-      "next_due": "2026-08-27",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-08-27",
+      "next_due": "2026-10-26",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_08": {
       "introduced": true,
@@ -434,10 +434,10 @@
     "strategy_05": {
       "introduced": true,
       "introduced_on": "2026-05-28",
-      "last_seen": "2026-06-28",
-      "next_due": "2026-08-27",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-08-27",
+      "next_due": "2026-10-26",
+      "review_count": 6,
+      "times_seen": 7
     },
     "strategy_06": {
       "introduced": true,
@@ -2215,6 +2215,19 @@
       "output_pdf": null,
       "sent_at": "2026-08-26T07:06:07",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-19-wisse-mit-wem-du-es-zu-tun-hast.epub"
+    },
+    {
+      "date": "2026-08-27",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 7: Lass andere für dich arbeiten, aber nimm selbst den Ruhm",
+      "items": [
+        "law_07",
+        "strategy_05"
+      ],
+      "output_json": "output/lessons/2026-08-27-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-27T17:24:45",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-7-lass-andere-fur-dich-arbeiten-aber-nimm-selbst-den-ruhm.epub"
     }
   ]
 }
