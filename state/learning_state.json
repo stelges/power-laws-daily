@@ -162,10 +162,10 @@
     "law_19": {
       "introduced": true,
       "introduced_on": "2026-08-21",
-      "last_seen": "2026-08-26",
-      "next_due": "2026-09-02",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-08-29",
+      "next_due": "2026-09-12",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_20": {
       "introduced": false,
@@ -498,10 +498,10 @@
     "strategy_13": {
       "introduced": true,
       "introduced_on": "2026-08-14",
-      "last_seen": "2026-08-23",
-      "next_due": "2026-09-22",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-08-29",
+      "next_due": "2026-10-28",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_14": {
       "introduced": false,
@@ -2240,6 +2240,19 @@
       "output_pdf": null,
       "sent_at": "2026-08-28T18:51:09",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
+    },
+    {
+      "date": "2026-08-29",
+      "type": "comparison",
+      "title": "Gesetz 19: Wisse, mit wem du es zu tun hast vs. Strategie 13: Kenne deinen Gegner",
+      "items": [
+        "law_19",
+        "strategy_13"
+      ],
+      "output_json": "output/lessons/2026-08-29-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-29T13:18:22",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-19-wisse-mit-wem-du-es-zu-tun-hast-vs-strategie-13-kenne-deinen-gegner.epub"
     }
   ]
 }
