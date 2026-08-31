@@ -498,10 +498,10 @@
     "strategy_13": {
       "introduced": true,
       "introduced_on": "2026-08-14",
-      "last_seen": "2026-08-29",
-      "next_due": "2026-10-28",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-08-31",
+      "next_due": "2026-10-30",
+      "review_count": 6,
+      "times_seen": 7
     },
     "strategy_14": {
       "introduced": false,
@@ -2268,6 +2268,18 @@
       "output_pdf": null,
       "sent_at": "2026-08-30T12:03:51",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "application",
+      "title": "Mini-Fallanalyse: Strategie 13: Kenne deinen Gegner",
+      "items": [
+        "strategy_13"
+      ],
+      "output_json": "output/lessons/2026-08-31-application.json",
+      "output_pdf": null,
+      "sent_at": "2026-08-31T13:04:18",
+      "output_epub": "output/epub/mini-fallanalyse-strategie-13-kenne-deinen-gegner.epub"
     }
   ]
 }
