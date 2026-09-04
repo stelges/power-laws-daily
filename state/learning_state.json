@@ -162,10 +162,10 @@
     "law_19": {
       "introduced": true,
       "introduced_on": "2026-08-21",
-      "last_seen": "2026-08-29",
-      "next_due": "2026-09-12",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-09-04",
+      "next_due": "2026-10-04",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_20": {
       "introduced": false,
@@ -506,10 +506,10 @@
     "strategy_14": {
       "introduced": true,
       "introduced_on": "2026-09-01",
-      "last_seen": "2026-09-02",
-      "next_due": "2026-09-05",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-09-04",
+      "next_due": "2026-09-11",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_15": {
       "introduced": false,
@@ -2317,6 +2317,19 @@
       "output_pdf": null,
       "sent_at": "2026-09-03T11:05:50",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-5-schutze-deinen-ruf-um-jeden-preis.epub"
+    },
+    {
+      "date": "2026-09-04",
+      "type": "comparison",
+      "title": "Gesetz 19: Wisse, mit wem du es zu tun hast vs. Strategie 14: Überwältige Widerstand durch Geschwindigkeit",
+      "items": [
+        "law_19",
+        "strategy_14"
+      ],
+      "output_json": "output/lessons/2026-09-04-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-04T10:58:57",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-19-wisse-mit-wem-du-es-zu-tun-hast-vs-strategie-14-uberwaltige-widerstand-durch-geschwindigkeit.epub"
     }
   ]
 }
