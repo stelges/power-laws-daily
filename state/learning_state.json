@@ -168,12 +168,12 @@
       "times_seen": 5
     },
     "law_20": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "next_due": "2026-09-06",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_21": {
       "introduced": false,
@@ -2330,6 +2330,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-04T10:58:57",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-19-wisse-mit-wem-du-es-zu-tun-hast-vs-strategie-14-uberwaltige-widerstand-durch-geschwindigkeit.epub"
+    },
+    {
+      "date": "2026-09-05",
+      "type": "new_law",
+      "title": "Gesetz 20: Binde dich an niemanden",
+      "items": [
+        "law_20"
+      ],
+      "output_json": "output/lessons/2026-09-05-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-05T10:30:13",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-20-binde-dich-an-niemanden.epub"
     }
   ]
 }
