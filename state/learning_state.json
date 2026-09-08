@@ -506,10 +506,10 @@
     "strategy_14": {
       "introduced": true,
       "introduced_on": "2026-09-01",
-      "last_seen": "2026-09-06",
-      "next_due": "2026-09-20",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-09-08",
+      "next_due": "2026-10-08",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_15": {
       "introduced": false,
@@ -2370,6 +2370,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-07T11:36:04",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-20-binde-dich-an-niemanden.epub"
+    },
+    {
+      "date": "2026-09-08",
+      "type": "application",
+      "title": "Mini-Fallanalyse: Strategie 14: Überwältige Widerstand durch Geschwindigkeit",
+      "items": [
+        "strategy_14"
+      ],
+      "output_json": "output/lessons/2026-09-08-application.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-08T11:00:01",
+      "output_epub": "output/epub/mini-fallanalyse-strategie-14-uberwaltige-widerstand-durch-geschwindigkeit.epub"
     }
   ]
 }
