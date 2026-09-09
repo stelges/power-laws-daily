@@ -176,12 +176,12 @@
       "times_seen": 2
     },
     "law_21": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "next_due": "2026-09-10",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_22": {
       "introduced": false,
@@ -2382,6 +2382,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-08T11:00:01",
       "output_epub": "output/epub/mini-fallanalyse-strategie-14-uberwaltige-widerstand-durch-geschwindigkeit.epub"
+    },
+    {
+      "date": "2026-09-09",
+      "type": "new_law",
+      "title": "Gesetz 21: Stelle dich dümmer, als du bist",
+      "items": [
+        "law_21"
+      ],
+      "output_json": "output/lessons/2026-09-09-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-09T11:05:21",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-21-stelle-dich-dummer-als-du-bist.epub"
     }
   ]
 }
