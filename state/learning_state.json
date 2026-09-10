@@ -170,18 +170,18 @@
     "law_20": {
       "introduced": true,
       "introduced_on": "2026-09-05",
-      "last_seen": "2026-09-07",
-      "next_due": "2026-09-10",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-09-10",
+      "next_due": "2026-09-17",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_21": {
       "introduced": true,
       "introduced_on": "2026-09-09",
-      "last_seen": "2026-09-09",
-      "next_due": "2026-09-10",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-09-10",
+      "next_due": "2026-09-13",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_22": {
       "introduced": false,
@@ -2394,6 +2394,19 @@
       "output_pdf": null,
       "sent_at": "2026-09-09T11:05:21",
       "output_epub": "output/epub/gesetz-der-macht-nummer-21-stelle-dich-dummer-als-du-bist.epub"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 21: Stelle dich dümmer, als du bist",
+      "items": [
+        "law_21",
+        "law_20"
+      ],
+      "output_json": "output/lessons/2026-09-10-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-10T11:04:28",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-21-stelle-dich-dummer-als-du-bist.epub"
     }
   ]
 }
