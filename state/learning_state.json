@@ -512,12 +512,12 @@
       "times_seen": 5
     },
     "strategy_15": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "next_due": "2026-09-12",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_16": {
       "introduced": false,
@@ -2407,6 +2407,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-10T11:04:28",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-21-stelle-dich-dummer-als-du-bist.epub"
+    },
+    {
+      "date": "2026-09-11",
+      "type": "new_strategy",
+      "title": "Strategie 15: Kontrolliere die Dynamik",
+      "items": [
+        "strategy_15"
+      ],
+      "output_json": "output/lessons/2026-09-11-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-11T11:02:34",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-15-kontrolliere-die-dynamik.epub"
     }
   ]
 }
