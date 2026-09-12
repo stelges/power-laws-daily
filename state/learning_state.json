@@ -514,10 +514,10 @@
     "strategy_15": {
       "introduced": true,
       "introduced_on": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "next_due": "2026-09-12",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-09-12",
+      "next_due": "2026-09-15",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_16": {
       "introduced": false,
@@ -2419,6 +2419,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-11T11:02:34",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-15-kontrolliere-die-dynamik.epub"
+    },
+    {
+      "date": "2026-09-12",
+      "type": "review",
+      "title": "Wiederholung: Strategie 15: Kontrolliere die Dynamik",
+      "items": [
+        "strategy_15"
+      ],
+      "output_json": "output/lessons/2026-09-12-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-12T10:45:41",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-15-kontrolliere-die-dynamik.epub"
     }
   ]
 }
