@@ -130,10 +130,10 @@
     "law_15": {
       "introduced": true,
       "introduced_on": "2026-07-16",
-      "last_seen": "2026-09-07",
-      "next_due": "2026-11-06",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-09-13",
+      "next_due": "2026-11-12",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_16": {
       "introduced": true,
@@ -170,18 +170,18 @@
     "law_20": {
       "introduced": true,
       "introduced_on": "2026-09-05",
-      "last_seen": "2026-09-10",
-      "next_due": "2026-09-17",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-09-13",
+      "next_due": "2026-09-27",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_21": {
       "introduced": true,
       "introduced_on": "2026-09-09",
-      "last_seen": "2026-09-10",
-      "next_due": "2026-09-13",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-09-13",
+      "next_due": "2026-09-20",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_22": {
       "introduced": false,
@@ -506,10 +506,10 @@
     "strategy_14": {
       "introduced": true,
       "introduced_on": "2026-09-01",
-      "last_seen": "2026-09-08",
-      "next_due": "2026-10-08",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-09-13",
+      "next_due": "2026-11-12",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_15": {
       "introduced": true,
@@ -2431,6 +2431,21 @@
       "output_pdf": null,
       "sent_at": "2026-09-12T10:45:41",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-15-kontrolliere-die-dynamik.epub"
+    },
+    {
+      "date": "2026-09-13",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 20: Binde dich an niemanden, Gesetz 15: Vernichte deinen Feind vollständig, Strategie 14: Überwältige Widerstand durch Geschwindigkeit",
+      "items": [
+        "law_20",
+        "law_15",
+        "strategy_14",
+        "law_21"
+      ],
+      "output_json": "output/lessons/2026-09-13-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-13T11:40:24",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
