@@ -82,10 +82,10 @@
     "law_09": {
       "introduced": true,
       "introduced_on": "2026-06-10",
-      "last_seen": "2026-07-18",
-      "next_due": "2026-09-16",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-09-16",
+      "next_due": "2026-11-15",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_10": {
       "introduced": true,
@@ -138,10 +138,10 @@
     "law_16": {
       "introduced": true,
       "introduced_on": "2026-07-29",
-      "last_seen": "2026-08-16",
-      "next_due": "2026-09-15",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-09-16",
+      "next_due": "2026-11-15",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_17": {
       "introduced": true,
@@ -2471,6 +2471,19 @@
       "output_pdf": null,
       "sent_at": "2026-09-15T11:32:51",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-22-nutze-die-strategie-der-kapitulation.epub"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 16: Nutze Abwesenheit, um Respekt und Wert zu steigern",
+      "items": [
+        "law_16",
+        "law_09"
+      ],
+      "output_json": "output/lessons/2026-09-16-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-16T11:26:20",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-16-nutze-abwesenheit-um-respekt-und-wert-zu-steigern.epub"
     }
   ]
 }
