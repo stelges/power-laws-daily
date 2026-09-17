@@ -442,10 +442,10 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-07-19",
-      "next_due": "2026-09-17",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-09-17",
+      "next_due": "2026-11-16",
+      "review_count": 7,
+      "times_seen": 8
     },
     "strategy_07": {
       "introduced": true,
@@ -2484,6 +2484,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-16T11:26:20",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-16-nutze-abwesenheit-um-respekt-und-wert-zu-steigern.epub"
+    },
+    {
+      "date": "2026-09-17",
+      "type": "review",
+      "title": "Wiederholung: Strategie 6: Segmentiere deine Kräfte",
+      "items": [
+        "strategy_06"
+      ],
+      "output_json": "output/lessons/2026-09-17-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-17T11:36:06",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-6-segmentiere-deine-krafte.epub"
     }
   ]
 }
