@@ -186,10 +186,10 @@
     "law_22": {
       "introduced": true,
       "introduced_on": "2026-09-14",
-      "last_seen": "2026-09-15",
-      "next_due": "2026-09-18",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-09-18",
+      "next_due": "2026-09-25",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_23": {
       "introduced": false,
@@ -2496,6 +2496,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-17T11:36:06",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-6-segmentiere-deine-krafte.epub"
+    },
+    {
+      "date": "2026-09-18",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 22: Nutze die Strategie der Kapitulation",
+      "items": [
+        "law_22"
+      ],
+      "output_json": "output/lessons/2026-09-18-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-18T11:08:11",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-22-nutze-die-strategie-der-kapitulation.epub"
     }
   ]
 }
