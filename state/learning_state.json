@@ -520,12 +520,12 @@
       "times_seen": 3
     },
     "strategy_16": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "next_due": "2026-09-20",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_17": {
       "introduced": false,
@@ -2508,6 +2508,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-18T11:08:11",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-22-nutze-die-strategie-der-kapitulation.epub"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "new_strategy",
+      "title": "Strategie 16: Triff dort, wo es weh tut",
+      "items": [
+        "strategy_16"
+      ],
+      "output_json": "output/lessons/2026-09-19-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-19T10:54:40",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-16-triff-dort-wo-es-weh-tut.epub"
     }
   ]
 }
