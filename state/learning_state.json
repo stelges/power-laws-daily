@@ -82,10 +82,10 @@
     "law_09": {
       "introduced": true,
       "introduced_on": "2026-06-10",
-      "last_seen": "2026-09-16",
-      "next_due": "2026-11-15",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-09-20",
+      "next_due": "2026-11-19",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_10": {
       "introduced": true,
@@ -138,10 +138,10 @@
     "law_16": {
       "introduced": true,
       "introduced_on": "2026-07-29",
-      "last_seen": "2026-09-16",
-      "next_due": "2026-11-15",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-09-20",
+      "next_due": "2026-11-19",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_17": {
       "introduced": true,
@@ -186,10 +186,10 @@
     "law_22": {
       "introduced": true,
       "introduced_on": "2026-09-14",
-      "last_seen": "2026-09-18",
-      "next_due": "2026-09-25",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-09-20",
+      "next_due": "2026-10-04",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_23": {
       "introduced": false,
@@ -514,10 +514,10 @@
     "strategy_15": {
       "introduced": true,
       "introduced_on": "2026-09-11",
-      "last_seen": "2026-09-15",
-      "next_due": "2026-09-22",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-09-20",
+      "next_due": "2026-10-04",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_16": {
       "introduced": true,
@@ -2520,6 +2520,21 @@
       "output_pdf": null,
       "sent_at": "2026-09-19T10:54:40",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-16-triff-dort-wo-es-weh-tut.epub"
+    },
+    {
+      "date": "2026-09-20",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 22: Nutze die Strategie der Kapitulation, Strategie 15: Kontrolliere die Dynamik, Gesetz 16: Nutze Abwesenheit, um Respekt und Wert zu steigern",
+      "items": [
+        "law_22",
+        "strategy_15",
+        "law_16",
+        "law_09"
+      ],
+      "output_json": "output/lessons/2026-09-20-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-20T11:24:35",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
