@@ -178,10 +178,10 @@
     "law_21": {
       "introduced": true,
       "introduced_on": "2026-09-09",
-      "last_seen": "2026-09-13",
-      "next_due": "2026-09-20",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-09-21",
+      "next_due": "2026-10-05",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_22": {
       "introduced": true,
@@ -522,10 +522,10 @@
     "strategy_16": {
       "introduced": true,
       "introduced_on": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "next_due": "2026-09-20",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-09-21",
+      "next_due": "2026-09-24",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_17": {
       "introduced": false,
@@ -2535,6 +2535,19 @@
       "output_pdf": null,
       "sent_at": "2026-09-20T11:24:35",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-09-21",
+      "type": "review",
+      "title": "Wiederholung: Strategie 16: Triff dort, wo es weh tut",
+      "items": [
+        "strategy_16",
+        "law_21"
+      ],
+      "output_json": "output/lessons/2026-09-21-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-21T12:08:58",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-16-triff-dort-wo-es-weh-tut.epub"
     }
   ]
 }
