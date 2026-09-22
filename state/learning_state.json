@@ -18,10 +18,10 @@
     "law_01": {
       "introduced": true,
       "introduced_on": "2026-04-25",
-      "last_seen": "2026-07-23",
-      "next_due": "2026-09-21",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-09-22",
+      "next_due": "2026-11-21",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_02": {
       "introduced": true,
@@ -402,10 +402,10 @@
     "strategy_01": {
       "introduced": true,
       "introduced_on": "2026-04-27",
-      "last_seen": "2026-07-23",
-      "next_due": "2026-09-21",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-09-22",
+      "next_due": "2026-11-21",
+      "review_count": 7,
+      "times_seen": 8
     },
     "strategy_02": {
       "introduced": true,
@@ -2548,6 +2548,19 @@
       "output_pdf": null,
       "sent_at": "2026-09-21T12:08:58",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-16-triff-dort-wo-es-weh-tut.epub"
+    },
+    {
+      "date": "2026-09-22",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 1: Stelle deinen Meister nie in den Schatten",
+      "items": [
+        "law_01",
+        "strategy_01"
+      ],
+      "output_json": "output/lessons/2026-09-22-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-22T11:26:04",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-1-stelle-deinen-meister-nie-in-den-schatten.epub"
     }
   ]
 }
