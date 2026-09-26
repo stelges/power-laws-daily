@@ -192,12 +192,12 @@
       "times_seen": 4
     },
     "law_23": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "next_due": "2026-09-27",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_24": {
       "introduced": false,
@@ -2599,6 +2599,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-25T11:44:35",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-8-wahle-deine-schlachten-sorgfaltig.epub"
+    },
+    {
+      "date": "2026-09-26",
+      "type": "new_law",
+      "title": "Gesetz 23: Konzentriere deine Kräfte",
+      "items": [
+        "law_23"
+      ],
+      "output_json": "output/lessons/2026-09-26-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-26T11:28:49",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-23-konzentriere-deine-krafte.epub"
     }
   ]
 }
