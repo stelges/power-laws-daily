@@ -18,10 +18,10 @@
     "law_01": {
       "introduced": true,
       "introduced_on": "2026-04-25",
-      "last_seen": "2026-09-22",
-      "next_due": "2026-11-21",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-09-27",
+      "next_due": "2026-11-26",
+      "review_count": 8,
+      "times_seen": 9
     },
     "law_02": {
       "introduced": true,
@@ -178,10 +178,10 @@
     "law_21": {
       "introduced": true,
       "introduced_on": "2026-09-09",
-      "last_seen": "2026-09-21",
-      "next_due": "2026-10-05",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-09-27",
+      "next_due": "2026-10-27",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_22": {
       "introduced": true,
@@ -402,10 +402,10 @@
     "strategy_01": {
       "introduced": true,
       "introduced_on": "2026-04-27",
-      "last_seen": "2026-09-22",
-      "next_due": "2026-11-21",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-09-27",
+      "next_due": "2026-11-26",
+      "review_count": 8,
+      "times_seen": 9
     },
     "strategy_02": {
       "introduced": true,
@@ -522,10 +522,10 @@
     "strategy_16": {
       "introduced": true,
       "introduced_on": "2026-09-19",
-      "last_seen": "2026-09-24",
-      "next_due": "2026-10-01",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-09-27",
+      "next_due": "2026-10-11",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_17": {
       "introduced": false,
@@ -2611,6 +2611,21 @@
       "output_pdf": null,
       "sent_at": "2026-09-26T11:28:49",
       "output_epub": "output/epub/gesetz-der-macht-nummer-23-konzentriere-deine-krafte.epub"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 16: Triff dort, wo es weh tut, Gesetz 21: Stelle dich dümmer, als du bist, Gesetz 1: Stelle deinen Meister nie in den Schatten",
+      "items": [
+        "strategy_16",
+        "law_21",
+        "law_01",
+        "strategy_01"
+      ],
+      "output_json": "output/lessons/2026-09-27-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-27T12:09:02",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
