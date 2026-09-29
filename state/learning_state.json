@@ -34,10 +34,10 @@
     "law_03": {
       "introduced": true,
       "introduced_on": "2026-05-04",
-      "last_seen": "2026-07-31",
-      "next_due": "2026-09-29",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-09-29",
+      "next_due": "2026-11-28",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_04": {
       "introduced": true,
@@ -154,10 +154,10 @@
     "law_18": {
       "introduced": true,
       "introduced_on": "2026-08-12",
-      "last_seen": "2026-08-30",
-      "next_due": "2026-09-29",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-09-29",
+      "next_due": "2026-11-28",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_19": {
       "introduced": true,
@@ -2639,6 +2639,19 @@
       "output_pdf": null,
       "sent_at": "2026-09-28T13:09:26",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-23-konzentriere-deine-krafte.epub"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 18: Baue keine Festungen, um dich zu schützen",
+      "items": [
+        "law_18",
+        "law_03"
+      ],
+      "output_json": "output/lessons/2026-09-29-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-29T12:51:10",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-18-baue-keine-festungen-um-dich-zu-schutzen.epub"
     }
   ]
 }
