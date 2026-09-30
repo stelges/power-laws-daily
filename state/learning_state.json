@@ -200,12 +200,12 @@
       "times_seen": 2
     },
     "law_24": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "next_due": "2026-10-01",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_25": {
       "introduced": false,
@@ -2652,6 +2652,18 @@
       "output_pdf": null,
       "sent_at": "2026-09-29T12:51:10",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-18-baue-keine-festungen-um-dich-zu-schutzen.epub"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "new_law",
+      "title": "Gesetz 24: Spiele den perfekten Höfling",
+      "items": [
+        "law_24"
+      ],
+      "output_json": "output/lessons/2026-09-30-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-09-30T12:40:21",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-24-spiele-den-perfekten-hofling.epub"
     }
   ]
 }
