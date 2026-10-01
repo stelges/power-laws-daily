@@ -194,18 +194,18 @@
     "law_23": {
       "introduced": true,
       "introduced_on": "2026-09-26",
-      "last_seen": "2026-09-28",
-      "next_due": "2026-10-01",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-10-01",
+      "next_due": "2026-10-08",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_24": {
       "introduced": true,
       "introduced_on": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "next_due": "2026-10-01",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-10-01",
+      "next_due": "2026-10-04",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_25": {
       "introduced": false,
@@ -2664,6 +2664,19 @@
       "output_pdf": null,
       "sent_at": "2026-09-30T12:40:21",
       "output_epub": "output/epub/gesetz-der-macht-nummer-24-spiele-den-perfekten-hofling.epub"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 24: Spiele den perfekten Höfling",
+      "items": [
+        "law_24",
+        "law_23"
+      ],
+      "output_json": "output/lessons/2026-10-01-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-01T13:07:05",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-24-spiele-den-perfekten-hofling.epub"
     }
   ]
 }
