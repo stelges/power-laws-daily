@@ -90,10 +90,10 @@
     "law_10": {
       "introduced": true,
       "introduced_on": "2026-06-19",
-      "last_seen": "2026-08-02",
-      "next_due": "2026-10-01",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-10-02",
+      "next_due": "2026-12-01",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_11": {
       "introduced": true,
@@ -106,10 +106,10 @@
     "law_12": {
       "introduced": true,
       "introduced_on": "2026-07-01",
-      "last_seen": "2026-08-02",
-      "next_due": "2026-10-01",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-10-02",
+      "next_due": "2026-12-01",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_13": {
       "introduced": true,
@@ -2677,6 +2677,19 @@
       "output_pdf": null,
       "sent_at": "2026-10-01T13:07:05",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-24-spiele-den-perfekten-hofling.epub"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 12: Setze gezielte Ehrlichkeit und Großzügigkeit ein",
+      "items": [
+        "law_12",
+        "law_10"
+      ],
+      "output_json": "output/lessons/2026-10-02-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-02T12:40:36",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-12-setze-gezielte-ehrlichkeit-und-grozugigkeit-ein.epub"
     }
   ]
 }
