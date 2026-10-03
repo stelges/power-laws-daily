@@ -528,12 +528,12 @@
       "times_seen": 4
     },
     "strategy_17": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "next_due": "2026-10-04",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_18": {
       "introduced": false,
@@ -2690,6 +2690,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-02T12:40:36",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-12-setze-gezielte-ehrlichkeit-und-grozugigkeit-ein.epub"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "new_strategy",
+      "title": "Strategie 17: Teile und herrsche",
+      "items": [
+        "strategy_17"
+      ],
+      "output_json": "output/lessons/2026-10-03-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-03T11:59:39",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-17-teile-und-herrsche.epub"
     }
   ]
 }
