@@ -34,10 +34,10 @@
     "law_03": {
       "introduced": true,
       "introduced_on": "2026-05-04",
-      "last_seen": "2026-09-29",
-      "next_due": "2026-11-28",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-10-04",
+      "next_due": "2026-12-03",
+      "review_count": 8,
+      "times_seen": 9
     },
     "law_04": {
       "introduced": true,
@@ -154,10 +154,10 @@
     "law_18": {
       "introduced": true,
       "introduced_on": "2026-08-12",
-      "last_seen": "2026-09-29",
-      "next_due": "2026-11-28",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-10-04",
+      "next_due": "2026-12-03",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_19": {
       "introduced": true,
@@ -170,10 +170,10 @@
     "law_20": {
       "introduced": true,
       "introduced_on": "2026-09-05",
-      "last_seen": "2026-09-28",
-      "next_due": "2026-10-28",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-10-04",
+      "next_due": "2026-12-03",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_21": {
       "introduced": true,
@@ -194,10 +194,10 @@
     "law_23": {
       "introduced": true,
       "introduced_on": "2026-09-26",
-      "last_seen": "2026-10-01",
-      "next_due": "2026-10-08",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-10-04",
+      "next_due": "2026-10-18",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_24": {
       "introduced": true,
@@ -2702,6 +2702,21 @@
       "output_pdf": null,
       "sent_at": "2026-10-03T11:59:39",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-17-teile-und-herrsche.epub"
+    },
+    {
+      "date": "2026-10-04",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 23: Konzentriere deine Kräfte, Gesetz 20: Binde dich an niemanden, Gesetz 18: Baue keine Festungen, um dich zu schützen",
+      "items": [
+        "law_23",
+        "law_20",
+        "law_18",
+        "law_03"
+      ],
+      "output_json": "output/lessons/2026-10-04-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-04T12:42:46",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
