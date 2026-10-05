@@ -202,10 +202,10 @@
     "law_24": {
       "introduced": true,
       "introduced_on": "2026-09-30",
-      "last_seen": "2026-10-01",
-      "next_due": "2026-10-04",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-10-05",
+      "next_due": "2026-10-12",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_25": {
       "introduced": false,
@@ -530,10 +530,10 @@
     "strategy_17": {
       "introduced": true,
       "introduced_on": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "next_due": "2026-10-04",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-10-05",
+      "next_due": "2026-10-08",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_18": {
       "introduced": false,
@@ -2717,6 +2717,19 @@
       "output_pdf": null,
       "sent_at": "2026-10-04T12:42:46",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "review",
+      "title": "Wiederholung: Strategie 17: Teile und herrsche",
+      "items": [
+        "strategy_17",
+        "law_24"
+      ],
+      "output_json": "output/lessons/2026-10-05-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-05T13:45:54",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-17-teile-und-herrsche.epub"
     }
   ]
 }
