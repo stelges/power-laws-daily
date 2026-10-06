@@ -186,10 +186,10 @@
     "law_22": {
       "introduced": true,
       "introduced_on": "2026-09-14",
-      "last_seen": "2026-09-20",
-      "next_due": "2026-10-04",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-10-06",
+      "next_due": "2026-11-05",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_23": {
       "introduced": true,
@@ -514,10 +514,10 @@
     "strategy_15": {
       "introduced": true,
       "introduced_on": "2026-09-11",
-      "last_seen": "2026-09-20",
-      "next_due": "2026-10-04",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-10-06",
+      "next_due": "2026-11-05",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_16": {
       "introduced": true,
@@ -2730,6 +2730,19 @@
       "output_pdf": null,
       "sent_at": "2026-10-05T13:45:54",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-17-teile-und-herrsche.epub"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 22: Nutze die Strategie der Kapitulation",
+      "items": [
+        "law_22",
+        "strategy_15"
+      ],
+      "output_json": "output/lessons/2026-10-06-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-06T13:26:30",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-22-nutze-die-strategie-der-kapitulation.epub"
     }
   ]
 }
