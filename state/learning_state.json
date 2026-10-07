@@ -162,10 +162,10 @@
     "law_19": {
       "introduced": true,
       "introduced_on": "2026-08-21",
-      "last_seen": "2026-09-04",
-      "next_due": "2026-10-04",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-10-07",
+      "next_due": "2026-12-06",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_20": {
       "introduced": true,
@@ -2743,6 +2743,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-06T13:26:30",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-22-nutze-die-strategie-der-kapitulation.epub"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 19: Wisse, mit wem du es zu tun hast",
+      "items": [
+        "law_19"
+      ],
+      "output_json": "output/lessons/2026-10-07-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-07T13:16:31",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-19-wisse-mit-wem-du-es-zu-tun-hast.epub"
     }
   ]
 }
