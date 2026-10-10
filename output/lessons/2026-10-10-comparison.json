@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-10",
+  "title": "Tagesdosis Strategie & Macht",
+  "today_key": "comparison",
+  "today": "Vergleich",
+  "focus_title": "Gesetz 24: Spiele den perfekten Höfling vs. Strategie 17: Teile und herrsche",
+  "subtitle": "Zwei Denkwerkzeuge, eine Lage.",
+  "intro": "Heute vergleichst du Gesetz 24: Spiele den perfekten Höfling mit Strategie 17: Teile und herrsche.\n\nZiel ist nicht nur Wiedererkennen, sondern bessere Werkzeugwahl in echten Situationen.",
+  "source_item_ids": [
+    "law_24",
+    "strategy_17"
+  ],
+  "recall_questions": [
+    "Was ist die Kernmechanik von Gesetz 24: Spiele den perfekten Höfling?",
+    "Was ist die Kernmechanik von Strategie 17: Teile und herrsche?",
+    "Wann würde das eine Werkzeug schaden und das andere helfen?"
+  ],
+  "sections": [
+    {
+      "heading": "Inhalt",
+      "body": "Vergleich zwischen Gesetz 24: Spiele den perfekten Höfling und Strategie 17: Teile und herrsche."
+    },
+    {
+      "heading": "Kernmechanik",
+      "body": "Gesetz 24: Spiele den perfekten Höfling: In Hierarchien zählt nicht nur Wahrheit, sondern Form, Timing, Ton und soziale Eleganz.\n\nStrategie 17: Teile und herrsche: Gruppen wirken stark, solange sie geschlossen sind. Unterschiedliche Interessen können große Blöcke differenzieren."
+    },
+    {
+      "heading": "Warum das funktioniert",
+      "body": "Vergleiche erzeugen flexible Abrufbarkeit. Du lernst nicht nur eine Regel, sondern wann welches Werkzeug passt."
+    },
+    {
+      "heading": "Beispiel",
+      "body": "In einer neuen Schule kann dieselbe Situation Statussensibilität verlangen, aber auch Geistesgegenwart. Erst ruhig bleiben, dann die eigene Idee so rahmen, dass sie anschlussfähig wirkt."
+    },
+    {
+      "heading": "Dunkle Anwendung",
+      "body": "Destruktiv wird diese Mechanik, wenn 'Spiele den perfekten Höfling' genutzt wird, um Menschen zu täuschen, zu beschämen, abhängig zu machen oder Handlungsspielräume unfair zu verengen.\n\nDestruktiv wird diese Mechanik, wenn 'Teile und herrsche' genutzt wird, um Menschen zu täuschen, zu beschämen, abhängig zu machen oder Handlungsspielräume unfair zu verengen."
+    },
+    {
+      "heading": "Gegenmittel",
+      "body": "Langsam werden, Interessen klären, Verhalten statt Worte beobachten, eigene Grenzen schützen und nicht unter emotionalem Druck entscheiden.\n\nLangsam werden, Interessen klären, Verhalten statt Worte beobachten, eigene Grenzen schützen und nicht unter emotionalem Druck entscheiden."
+    }
+  ],
+  "quote": "Macht liegt oft nicht im Werkzeug, sondern in der Wahl des richtigen Werkzeugs.",
+  "mini_task": "Wende beide Werkzeuge auf dieselbe Alltagssituation an und entscheide, welches heute führend sein sollte.",
+  "output_json": "output/lessons/2026-10-10-comparison.json",
+  "output_pdf": "output/pdf/vergleich-strategie-und-macht-gesetz-24-spiele-den-perfekten-hofling-vs-strategie-17-teile-und-herrsche.pdf",
+  "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-24-spiele-den-perfekten-hofling-vs-strategie-17-teile-und-herrsche.epub"
+}

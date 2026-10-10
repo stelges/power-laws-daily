@@ -202,10 +202,10 @@
     "law_24": {
       "introduced": true,
       "introduced_on": "2026-09-30",
-      "last_seen": "2026-10-05",
-      "next_due": "2026-10-12",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-10-10",
+      "next_due": "2026-10-24",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_25": {
       "introduced": false,
@@ -530,10 +530,10 @@
     "strategy_17": {
       "introduced": true,
       "introduced_on": "2026-10-03",
-      "last_seen": "2026-10-08",
-      "next_due": "2026-10-15",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-10-10",
+      "next_due": "2026-10-24",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_18": {
       "introduced": false,
@@ -2780,6 +2780,19 @@
       "output_pdf": null,
       "sent_at": "2026-10-09T13:27:42",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-4-sage-immer-weniger-als-notig.epub"
+    },
+    {
+      "date": "2026-10-10",
+      "type": "comparison",
+      "title": "Gesetz 24: Spiele den perfekten Höfling vs. Strategie 17: Teile und herrsche",
+      "items": [
+        "law_24",
+        "strategy_17"
+      ],
+      "output_json": "output/lessons/2026-10-10-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-10T12:45:17",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-24-spiele-den-perfekten-hofling-vs-strategie-17-teile-und-herrsche.epub"
     }
   ]
 }
