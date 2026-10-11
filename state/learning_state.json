@@ -186,10 +186,10 @@
     "law_22": {
       "introduced": true,
       "introduced_on": "2026-09-14",
-      "last_seen": "2026-10-06",
-      "next_due": "2026-11-05",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-10-11",
+      "next_due": "2026-12-10",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_23": {
       "introduced": true,
@@ -202,10 +202,10 @@
     "law_24": {
       "introduced": true,
       "introduced_on": "2026-09-30",
-      "last_seen": "2026-10-10",
-      "next_due": "2026-10-24",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-10-11",
+      "next_due": "2026-11-10",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_25": {
       "introduced": false,
@@ -514,10 +514,10 @@
     "strategy_15": {
       "introduced": true,
       "introduced_on": "2026-09-11",
-      "last_seen": "2026-10-06",
-      "next_due": "2026-11-05",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-10-11",
+      "next_due": "2026-12-10",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_16": {
       "introduced": true,
@@ -530,10 +530,10 @@
     "strategy_17": {
       "introduced": true,
       "introduced_on": "2026-10-03",
-      "last_seen": "2026-10-10",
-      "next_due": "2026-10-24",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-10-11",
+      "next_due": "2026-11-10",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_18": {
       "introduced": false,
@@ -2793,6 +2793,21 @@
       "output_pdf": null,
       "sent_at": "2026-10-10T12:45:17",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-24-spiele-den-perfekten-hofling-vs-strategie-17-teile-und-herrsche.epub"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 17: Teile und herrsche, Gesetz 24: Spiele den perfekten Höfling, Gesetz 22: Nutze die Strategie der Kapitulation",
+      "items": [
+        "strategy_17",
+        "law_24",
+        "law_22",
+        "strategy_15"
+      ],
+      "output_json": "output/lessons/2026-10-11-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-11T12:58:14",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
