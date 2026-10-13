@@ -208,12 +208,12 @@
       "times_seen": 5
     },
     "law_25": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "next_due": "2026-10-14",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_26": {
       "introduced": false,
@@ -2820,6 +2820,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-12T14:19:57",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-16-triff-dort-wo-es-weh-tut.epub"
+    },
+    {
+      "date": "2026-10-13",
+      "type": "new_law",
+      "title": "Gesetz 25: Erschaffe dich neu",
+      "items": [
+        "law_25"
+      ],
+      "output_json": "output/lessons/2026-10-13-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-13T14:03:58",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-25-erschaffe-dich-neu.epub"
     }
   ]
 }
