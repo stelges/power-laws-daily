@@ -210,10 +210,10 @@
     "law_25": {
       "introduced": true,
       "introduced_on": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "next_due": "2026-10-14",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-10-14",
+      "next_due": "2026-10-17",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_26": {
       "introduced": false,
@@ -2832,6 +2832,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-13T14:03:58",
       "output_epub": "output/epub/gesetz-der-macht-nummer-25-erschaffe-dich-neu.epub"
+    },
+    {
+      "date": "2026-10-14",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 25: Erschaffe dich neu",
+      "items": [
+        "law_25"
+      ],
+      "output_json": "output/lessons/2026-10-14-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-14T11:39:46",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-25-erschaffe-dich-neu.epub"
     }
   ]
 }
