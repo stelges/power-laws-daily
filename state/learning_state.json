@@ -410,10 +410,10 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-08-16",
-      "next_due": "2026-10-15",
-      "review_count": 8,
-      "times_seen": 9
+      "last_seen": "2026-10-15",
+      "next_due": "2026-12-14",
+      "review_count": 9,
+      "times_seen": 10
     },
     "strategy_03": {
       "introduced": true,
@@ -466,10 +466,10 @@
     "strategy_09": {
       "introduced": true,
       "introduced_on": "2026-07-03",
-      "last_seen": "2026-08-16",
-      "next_due": "2026-10-15",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-10-15",
+      "next_due": "2026-12-14",
+      "review_count": 7,
+      "times_seen": 8
     },
     "strategy_10": {
       "introduced": true,
@@ -2844,6 +2844,19 @@
       "output_pdf": null,
       "sent_at": "2026-10-14T11:39:46",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-25-erschaffe-dich-neu.epub"
+    },
+    {
+      "date": "2026-10-15",
+      "type": "review",
+      "title": "Wiederholung: Strategie 9: Drehe den Spieß um",
+      "items": [
+        "strategy_09",
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-10-15-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-15T11:18:25",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-9-drehe-den-spie-um.epub"
     }
   ]
 }
