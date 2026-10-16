@@ -210,10 +210,10 @@
     "law_25": {
       "introduced": true,
       "introduced_on": "2026-10-13",
-      "last_seen": "2026-10-14",
-      "next_due": "2026-10-17",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-10-16",
+      "next_due": "2026-10-23",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_26": {
       "introduced": false,
@@ -530,10 +530,10 @@
     "strategy_17": {
       "introduced": true,
       "introduced_on": "2026-10-03",
-      "last_seen": "2026-10-11",
-      "next_due": "2026-11-10",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-10-16",
+      "next_due": "2026-12-15",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_18": {
       "introduced": false,
@@ -2857,6 +2857,19 @@
       "output_pdf": null,
       "sent_at": "2026-10-15T11:18:25",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-9-drehe-den-spie-um.epub"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "comparison",
+      "title": "Gesetz 25: Erschaffe dich neu vs. Strategie 17: Teile und herrsche",
+      "items": [
+        "law_25",
+        "strategy_17"
+      ],
+      "output_json": "output/lessons/2026-10-16-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-16T11:12:13",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-25-erschaffe-dich-neu-vs-strategie-17-teile-und-herrsche.epub"
     }
   ]
 }
