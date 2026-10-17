@@ -536,12 +536,12 @@
       "times_seen": 6
     },
     "strategy_18": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "next_due": "2026-10-18",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_19": {
       "introduced": false,
@@ -2870,6 +2870,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-16T11:12:13",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-25-erschaffe-dich-neu-vs-strategie-17-teile-und-herrsche.epub"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "new_strategy",
+      "title": "Strategie 18: Wende dich der Flanke zu",
+      "items": [
+        "strategy_18"
+      ],
+      "output_json": "output/lessons/2026-10-17-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-17T10:44:09",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-18-wende-dich-der-flanke-zu.epub"
     }
   ]
 }
