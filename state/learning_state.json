@@ -210,10 +210,10 @@
     "law_25": {
       "introduced": true,
       "introduced_on": "2026-10-13",
-      "last_seen": "2026-10-16",
-      "next_due": "2026-10-23",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-10-18",
+      "next_due": "2026-11-01",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_26": {
       "introduced": false,
@@ -410,10 +410,10 @@
     "strategy_02": {
       "introduced": true,
       "introduced_on": "2026-05-02",
-      "last_seen": "2026-10-15",
-      "next_due": "2026-12-14",
-      "review_count": 9,
-      "times_seen": 10
+      "last_seen": "2026-10-18",
+      "next_due": "2026-12-17",
+      "review_count": 10,
+      "times_seen": 11
     },
     "strategy_03": {
       "introduced": true,
@@ -466,10 +466,10 @@
     "strategy_09": {
       "introduced": true,
       "introduced_on": "2026-07-03",
-      "last_seen": "2026-10-15",
-      "next_due": "2026-12-14",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-10-18",
+      "next_due": "2026-12-17",
+      "review_count": 8,
+      "times_seen": 9
     },
     "strategy_10": {
       "introduced": true,
@@ -522,10 +522,10 @@
     "strategy_16": {
       "introduced": true,
       "introduced_on": "2026-09-19",
-      "last_seen": "2026-10-12",
-      "next_due": "2026-11-11",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-10-18",
+      "next_due": "2026-12-17",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_17": {
       "introduced": true,
@@ -2882,6 +2882,21 @@
       "output_pdf": null,
       "sent_at": "2026-10-17T10:44:09",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-18-wende-dich-der-flanke-zu.epub"
+    },
+    {
+      "date": "2026-10-18",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 16: Triff dort, wo es weh tut, Gesetz 25: Erschaffe dich neu, Strategie 9: Drehe den Spieß um",
+      "items": [
+        "strategy_16",
+        "law_25",
+        "strategy_09",
+        "strategy_02"
+      ],
+      "output_json": "output/lessons/2026-10-18-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-18T10:59:45",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
