@@ -194,10 +194,10 @@
     "law_23": {
       "introduced": true,
       "introduced_on": "2026-09-26",
-      "last_seen": "2026-10-04",
-      "next_due": "2026-10-18",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-10-19",
+      "next_due": "2026-11-18",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_24": {
       "introduced": true,
@@ -538,10 +538,10 @@
     "strategy_18": {
       "introduced": true,
       "introduced_on": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "next_due": "2026-10-18",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-10-19",
+      "next_due": "2026-10-22",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_19": {
       "introduced": false,
@@ -2897,6 +2897,19 @@
       "output_pdf": null,
       "sent_at": "2026-10-18T10:59:45",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "review",
+      "title": "Wiederholung: Strategie 18: Wende dich der Flanke zu",
+      "items": [
+        "strategy_18",
+        "law_23"
+      ],
+      "output_json": "output/lessons/2026-10-19-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-19T12:09:58",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-18-wende-dich-der-flanke-zu.epub"
     }
   ]
 }
