@@ -216,12 +216,12 @@
       "times_seen": 4
     },
     "law_26": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "next_due": "2026-10-21",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_27": {
       "introduced": false,
@@ -2910,6 +2910,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-19T12:09:58",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-18-wende-dich-der-flanke-zu.epub"
+    },
+    {
+      "date": "2026-10-20",
+      "type": "new_law",
+      "title": "Gesetz 26: Halte deine Hände sauber",
+      "items": [
+        "law_26"
+      ],
+      "output_json": "output/lessons/2026-10-20-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-20T11:34:15",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-26-halte-deine-hande-sauber.epub"
     }
   ]
 }
