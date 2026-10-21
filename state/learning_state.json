@@ -218,10 +218,10 @@
     "law_26": {
       "introduced": true,
       "introduced_on": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "next_due": "2026-10-21",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-10-21",
+      "next_due": "2026-10-24",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_27": {
       "introduced": false,
@@ -2922,6 +2922,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-20T11:34:15",
       "output_epub": "output/epub/gesetz-der-macht-nummer-26-halte-deine-hande-sauber.epub"
+    },
+    {
+      "date": "2026-10-21",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 26: Halte deine Hände sauber",
+      "items": [
+        "law_26"
+      ],
+      "output_json": "output/lessons/2026-10-21-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-21T11:30:16",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-26-halte-deine-hande-sauber.epub"
     }
   ]
 }
