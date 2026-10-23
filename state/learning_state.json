@@ -26,10 +26,10 @@
     "law_02": {
       "introduced": true,
       "introduced_on": "2026-04-30",
-      "last_seen": "2026-08-23",
-      "next_due": "2026-10-22",
-      "review_count": 8,
-      "times_seen": 9
+      "last_seen": "2026-10-23",
+      "next_due": "2026-12-22",
+      "review_count": 9,
+      "times_seen": 10
     },
     "law_03": {
       "introduced": true,
@@ -58,10 +58,10 @@
     "law_06": {
       "introduced": true,
       "introduced_on": "2026-05-22",
-      "last_seen": "2026-08-23",
-      "next_due": "2026-10-22",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-10-23",
+      "next_due": "2026-12-22",
+      "review_count": 8,
+      "times_seen": 9
     },
     "law_07": {
       "introduced": true,
@@ -2947,6 +2947,19 @@
       "output_pdf": null,
       "sent_at": "2026-10-22T11:33:25",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-18-wende-dich-der-flanke-zu.epub"
+    },
+    {
+      "date": "2026-10-23",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 6: Ziehe um jeden Preis Aufmerksamkeit auf dich",
+      "items": [
+        "law_06",
+        "law_02"
+      ],
+      "output_json": "output/lessons/2026-10-23-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-23T11:28:59",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-6-ziehe-um-jeden-preis-aufmerksamkeit-auf-dich.epub"
     }
   ]
 }
