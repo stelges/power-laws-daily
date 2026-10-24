@@ -218,10 +218,10 @@
     "law_26": {
       "introduced": true,
       "introduced_on": "2026-10-20",
-      "last_seen": "2026-10-21",
-      "next_due": "2026-10-24",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-10-24",
+      "next_due": "2026-10-31",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_27": {
       "introduced": false,
@@ -2960,6 +2960,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-23T11:28:59",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-6-ziehe-um-jeden-preis-aufmerksamkeit-auf-dich.epub"
+    },
+    {
+      "date": "2026-10-24",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 26: Halte deine Hände sauber",
+      "items": [
+        "law_26"
+      ],
+      "output_json": "output/lessons/2026-10-24-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-24T11:02:02",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-26-halte-deine-hande-sauber.epub"
     }
   ]
 }
