@@ -418,10 +418,10 @@
     "strategy_03": {
       "introduced": true,
       "introduced_on": "2026-05-08",
-      "last_seen": "2026-08-28",
-      "next_due": "2026-10-27",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-10-28",
+      "next_due": "2026-12-27",
+      "review_count": 8,
+      "times_seen": 9
     },
     "strategy_04": {
       "introduced": true,
@@ -3013,6 +3013,18 @@
       "output_pdf": null,
       "sent_at": "2026-10-27T10:58:42",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-5-vermeide-gruppendenken.epub"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "review",
+      "title": "Wiederholung: Strategie 3: Bewahre auch im Chaos Geistesgegenwart",
+      "items": [
+        "strategy_03"
+      ],
+      "output_json": "output/lessons/2026-10-28-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-10-28T11:44:52",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-3-bewahre-auch-im-chaos-geistesgegenwart.epub"
     }
   ]
 }
