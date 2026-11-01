@@ -66,10 +66,10 @@
     "law_07": {
       "introduced": true,
       "introduced_on": "2026-05-30",
-      "last_seen": "2026-10-26",
-      "next_due": "2026-12-25",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-11-01",
+      "next_due": "2026-12-31",
+      "review_count": 8,
+      "times_seen": 9
     },
     "law_08": {
       "introduced": true,
@@ -114,10 +114,10 @@
     "law_13": {
       "introduced": true,
       "introduced_on": "2026-07-08",
-      "last_seen": "2026-10-26",
-      "next_due": "2026-12-25",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-11-01",
+      "next_due": "2026-12-31",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_14": {
       "introduced": true,
@@ -178,10 +178,10 @@
     "law_21": {
       "introduced": true,
       "introduced_on": "2026-09-09",
-      "last_seen": "2026-10-27",
-      "next_due": "2026-12-26",
-      "review_count": 5,
-      "times_seen": 6
+      "last_seen": "2026-11-01",
+      "next_due": "2026-12-31",
+      "review_count": 6,
+      "times_seen": 7
     },
     "law_22": {
       "introduced": true,
@@ -434,10 +434,10 @@
     "strategy_05": {
       "introduced": true,
       "introduced_on": "2026-05-28",
-      "last_seen": "2026-10-27",
-      "next_due": "2026-12-26",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-11-01",
+      "next_due": "2026-12-31",
+      "review_count": 8,
+      "times_seen": 9
     },
     "strategy_06": {
       "introduced": true,
@@ -3062,6 +3062,21 @@
       "output_pdf": null,
       "sent_at": "2026-10-31T11:31:32",
       "output_epub": "output/epub/gesetz-der-macht-nummer-27-nutze-das-bedurfnis-der-menschen-zu-glauben.epub"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 13: Appelliere an Eigeninteresse, nicht an Dankbarkeit, Gesetz 7: Lass andere für dich arbeiten, aber nimm selbst den Ruhm, Strategie 5: Vermeide Gruppendenken",
+      "items": [
+        "law_13",
+        "law_07",
+        "strategy_05",
+        "law_21"
+      ],
+      "output_json": "output/lessons/2026-11-01-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-01T12:26:25",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
