@@ -210,10 +210,10 @@
     "law_25": {
       "introduced": true,
       "introduced_on": "2026-10-13",
-      "last_seen": "2026-10-18",
-      "next_due": "2026-11-01",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-11-02",
+      "next_due": "2026-12-02",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_26": {
       "introduced": true,
@@ -226,10 +226,10 @@
     "law_27": {
       "introduced": true,
       "introduced_on": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "next_due": "2026-11-01",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-11-02",
+      "next_due": "2026-11-05",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_28": {
       "introduced": false,
@@ -3077,6 +3077,19 @@
       "output_pdf": null,
       "sent_at": "2026-11-01T12:26:25",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 27: Nutze das Bedürfnis der Menschen zu glauben",
+      "items": [
+        "law_27",
+        "law_25"
+      ],
+      "output_json": "output/lessons/2026-11-02-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-02T13:46:28",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-27-nutze-das-bedurfnis-der-menschen-zu-glauben.epub"
     }
   ]
 }
