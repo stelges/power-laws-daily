@@ -226,10 +226,10 @@
     "law_27": {
       "introduced": true,
       "introduced_on": "2026-10-31",
-      "last_seen": "2026-11-02",
-      "next_due": "2026-11-05",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-11-03",
+      "next_due": "2026-11-10",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_28": {
       "introduced": false,
@@ -538,10 +538,10 @@
     "strategy_18": {
       "introduced": true,
       "introduced_on": "2026-10-17",
-      "last_seen": "2026-10-25",
-      "next_due": "2026-11-08",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-11-03",
+      "next_due": "2026-12-03",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_19": {
       "introduced": false,
@@ -3090,6 +3090,19 @@
       "output_pdf": null,
       "sent_at": "2026-11-02T13:46:28",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-27-nutze-das-bedurfnis-der-menschen-zu-glauben.epub"
+    },
+    {
+      "date": "2026-11-03",
+      "type": "comparison",
+      "title": "Gesetz 27: Nutze das Bedürfnis der Menschen zu glauben vs. Strategie 18: Wende dich der Flanke zu",
+      "items": [
+        "law_27",
+        "strategy_18"
+      ],
+      "output_json": "output/lessons/2026-11-03-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-03T13:13:06",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-27-nutze-das-bedurfnis-der-menschen-zu-glauben-vs-strategie-18-wende-dich-der-flanke-zu.epub"
     }
   ]
 }
