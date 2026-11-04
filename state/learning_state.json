@@ -544,12 +544,12 @@
       "times_seen": 5
     },
     "strategy_19": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "next_due": "2026-11-05",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_20": {
       "introduced": false,
@@ -3103,6 +3103,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-03T13:13:06",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-27-nutze-das-bedurfnis-der-menschen-zu-glauben-vs-strategie-18-wende-dich-der-flanke-zu.epub"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "new_strategy",
+      "title": "Strategie 19: Umschließe den Gegner",
+      "items": [
+        "strategy_19"
+      ],
+      "output_json": "output/lessons/2026-11-04-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-04T13:24:37",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-19-umschliee-den-gegner.epub"
     }
   ]
 }
