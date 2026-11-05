@@ -498,10 +498,10 @@
     "strategy_13": {
       "introduced": true,
       "introduced_on": "2026-08-14",
-      "last_seen": "2026-09-06",
-      "next_due": "2026-11-05",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-11-05",
+      "next_due": "2027-01-04",
+      "review_count": 8,
+      "times_seen": 9
     },
     "strategy_14": {
       "introduced": true,
@@ -546,10 +546,10 @@
     "strategy_19": {
       "introduced": true,
       "introduced_on": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "next_due": "2026-11-05",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-11-05",
+      "next_due": "2026-11-08",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_20": {
       "introduced": false,
@@ -3115,6 +3115,19 @@
       "output_pdf": null,
       "sent_at": "2026-11-04T13:24:37",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-19-umschliee-den-gegner.epub"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "review",
+      "title": "Wiederholung: Strategie 19: Umschließe den Gegner",
+      "items": [
+        "strategy_19",
+        "strategy_13"
+      ],
+      "output_json": "output/lessons/2026-11-05-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-05T13:39:54",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-19-umschliee-den-gegner.epub"
     }
   ]
 }
