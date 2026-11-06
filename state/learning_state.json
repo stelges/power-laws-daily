@@ -50,10 +50,10 @@
     "law_05": {
       "introduced": true,
       "introduced_on": "2026-05-14",
-      "last_seen": "2026-09-06",
-      "next_due": "2026-11-05",
-      "review_count": 8,
-      "times_seen": 9
+      "last_seen": "2026-11-06",
+      "next_due": "2027-01-05",
+      "review_count": 9,
+      "times_seen": 10
     },
     "law_06": {
       "introduced": true,
@@ -426,10 +426,10 @@
     "strategy_04": {
       "introduced": true,
       "introduced_on": "2026-05-20",
-      "last_seen": "2026-09-06",
-      "next_due": "2026-11-05",
-      "review_count": 8,
-      "times_seen": 9
+      "last_seen": "2026-11-06",
+      "next_due": "2027-01-05",
+      "review_count": 9,
+      "times_seen": 10
     },
     "strategy_05": {
       "introduced": true,
@@ -3128,6 +3128,19 @@
       "output_pdf": null,
       "sent_at": "2026-11-05T13:39:54",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-19-umschliee-den-gegner.epub"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 5: Schütze deinen Ruf um jeden Preis",
+      "items": [
+        "law_05",
+        "strategy_04"
+      ],
+      "output_json": "output/lessons/2026-11-06-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-06T13:22:13",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-5-schutze-deinen-ruf-um-jeden-preis.epub"
     }
   ]
 }
