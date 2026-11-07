@@ -546,10 +546,10 @@
     "strategy_19": {
       "introduced": true,
       "introduced_on": "2026-11-04",
-      "last_seen": "2026-11-05",
-      "next_due": "2026-11-08",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-11-07",
+      "next_due": "2026-11-14",
+      "review_count": 2,
+      "times_seen": 3
     },
     "strategy_20": {
       "introduced": false,
@@ -3141,6 +3141,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-06T13:22:13",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-5-schutze-deinen-ruf-um-jeden-preis.epub"
+    },
+    {
+      "date": "2026-11-07",
+      "type": "application",
+      "title": "Mini-Fallanalyse: Strategie 19: Umschließe den Gegner",
+      "items": [
+        "strategy_19"
+      ],
+      "output_json": "output/lessons/2026-11-07-application.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-07T12:15:28",
+      "output_epub": "output/epub/mini-fallanalyse-strategie-19-umschliee-den-gegner.epub"
     }
   ]
 }
