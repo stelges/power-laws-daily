@@ -210,10 +210,10 @@
     "law_25": {
       "introduced": true,
       "introduced_on": "2026-10-13",
-      "last_seen": "2026-11-02",
-      "next_due": "2026-12-02",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-11-08",
+      "next_due": "2027-01-07",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_26": {
       "introduced": true,
@@ -226,10 +226,10 @@
     "law_27": {
       "introduced": true,
       "introduced_on": "2026-10-31",
-      "last_seen": "2026-11-03",
-      "next_due": "2026-11-10",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-11-08",
+      "next_due": "2026-11-22",
+      "review_count": 3,
+      "times_seen": 4
     },
     "law_28": {
       "introduced": false,
@@ -538,18 +538,18 @@
     "strategy_18": {
       "introduced": true,
       "introduced_on": "2026-10-17",
-      "last_seen": "2026-11-03",
-      "next_due": "2026-12-03",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-11-08",
+      "next_due": "2027-01-07",
+      "review_count": 5,
+      "times_seen": 6
     },
     "strategy_19": {
       "introduced": true,
       "introduced_on": "2026-11-04",
-      "last_seen": "2026-11-07",
-      "next_due": "2026-11-14",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-11-08",
+      "next_due": "2026-11-22",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_20": {
       "introduced": false,
@@ -3153,6 +3153,21 @@
       "output_pdf": null,
       "sent_at": "2026-11-07T12:15:28",
       "output_epub": "output/epub/mini-fallanalyse-strategie-19-umschliee-den-gegner.epub"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "weekly_review",
+      "title": "Wochenreview: Gesetz 27: Nutze das Bedürfnis der Menschen zu glauben, Gesetz 25: Erschaffe dich neu, Strategie 18: Wende dich der Flanke zu",
+      "items": [
+        "law_27",
+        "law_25",
+        "strategy_18",
+        "strategy_19"
+      ],
+      "output_json": "output/lessons/2026-11-08-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-08T12:27:47",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
