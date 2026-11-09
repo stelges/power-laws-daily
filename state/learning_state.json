@@ -218,10 +218,10 @@
     "law_26": {
       "introduced": true,
       "introduced_on": "2026-10-20",
-      "last_seen": "2026-10-25",
-      "next_due": "2026-11-08",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-11-09",
+      "next_due": "2026-12-09",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_27": {
       "introduced": true,
@@ -3168,6 +3168,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-08T12:27:47",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 26: Halte deine Hände sauber",
+      "items": [
+        "law_26"
+      ],
+      "output_json": "output/lessons/2026-11-09-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-09T14:14:24",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-26-halte-deine-hande-sauber.epub"
     }
   ]
 }
