@@ -202,10 +202,10 @@
     "law_24": {
       "introduced": true,
       "introduced_on": "2026-09-30",
-      "last_seen": "2026-10-11",
-      "next_due": "2026-11-10",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-11-10",
+      "next_due": "2027-01-09",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_25": {
       "introduced": true,
@@ -3180,6 +3180,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-09T14:14:24",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-26-halte-deine-hande-sauber.epub"
+    },
+    {
+      "date": "2026-11-10",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 24: Spiele den perfekten Höfling",
+      "items": [
+        "law_24"
+      ],
+      "output_json": "output/lessons/2026-11-10-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-10T13:53:40",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-24-spiele-den-perfekten-hofling.epub"
     }
   ]
 }
