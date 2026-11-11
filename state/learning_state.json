@@ -546,10 +546,10 @@
     "strategy_19": {
       "introduced": true,
       "introduced_on": "2026-11-04",
-      "last_seen": "2026-11-08",
-      "next_due": "2026-11-22",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-11-11",
+      "next_due": "2026-12-11",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_20": {
       "introduced": false,
@@ -3192,6 +3192,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-10T13:53:40",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-24-spiele-den-perfekten-hofling.epub"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "application",
+      "title": "Mini-Fallanalyse: Strategie 19: Umschließe den Gegner",
+      "items": [
+        "strategy_19"
+      ],
+      "output_json": "output/lessons/2026-11-11-application.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-11T13:02:46",
+      "output_epub": "output/epub/mini-fallanalyse-strategie-19-umschliee-den-gegner.epub"
     }
   ]
 }
