@@ -234,10 +234,10 @@
     "law_28": {
       "introduced": true,
       "introduced_on": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "next_due": "2026-11-14",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-11-14",
+      "next_due": "2026-11-17",
+      "review_count": 1,
+      "times_seen": 2
     },
     "law_29": {
       "introduced": false,
@@ -3229,6 +3229,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-13T13:30:25",
       "output_epub": "output/epub/gesetz-der-macht-nummer-28-handle-kuhn.epub"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 28: Handle kühn",
+      "items": [
+        "law_28"
+      ],
+      "output_json": "output/lessons/2026-11-14-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-14T12:40:58",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-28-handle-kuhn.epub"
     }
   ]
 }
