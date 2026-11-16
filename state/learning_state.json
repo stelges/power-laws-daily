@@ -442,10 +442,10 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-09-17",
-      "next_due": "2026-11-16",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-11-16",
+      "next_due": "2027-01-15",
+      "review_count": 8,
+      "times_seen": 9
     },
     "strategy_07": {
       "introduced": true,
@@ -3256,6 +3256,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-15T13:09:44",
       "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "review",
+      "title": "Wiederholung: Strategie 6: Segmentiere deine Kräfte",
+      "items": [
+        "strategy_06"
+      ],
+      "output_json": "output/lessons/2026-11-16-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-16T14:03:23",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-6-segmentiere-deine-krafte.epub"
     }
   ]
 }
