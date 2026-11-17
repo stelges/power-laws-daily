@@ -234,10 +234,10 @@
     "law_28": {
       "introduced": true,
       "introduced_on": "2026-11-13",
-      "last_seen": "2026-11-14",
-      "next_due": "2026-11-17",
-      "review_count": 1,
-      "times_seen": 2
+      "last_seen": "2026-11-17",
+      "next_due": "2026-11-24",
+      "review_count": 2,
+      "times_seen": 3
     },
     "law_29": {
       "introduced": false,
@@ -3268,6 +3268,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-16T14:03:23",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-6-segmentiere-deine-krafte.epub"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 28: Handle kühn",
+      "items": [
+        "law_28"
+      ],
+      "output_json": "output/lessons/2026-11-17-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-17T14:45:05",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-28-handle-kuhn.epub"
     }
   ]
 }
