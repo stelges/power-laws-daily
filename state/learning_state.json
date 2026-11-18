@@ -552,12 +552,12 @@
       "times_seen": 6
     },
     "strategy_20": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "next_due": "2026-11-19",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "strategy_21": {
       "introduced": false,
@@ -3280,6 +3280,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-17T14:45:05",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-28-handle-kuhn.epub"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "new_strategy",
+      "title": "Strategie 20: Manövriere sie in Schwäche",
+      "items": [
+        "strategy_20"
+      ],
+      "output_json": "output/lessons/2026-11-18-new-strategy.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-18T14:19:29",
+      "output_epub": "output/epub/gesetz-der-strategie-nummer-20-manovriere-sie-in-schwache.epub"
     }
   ]
 }
