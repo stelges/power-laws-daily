@@ -138,10 +138,10 @@
     "law_16": {
       "introduced": true,
       "introduced_on": "2026-07-29",
-      "last_seen": "2026-09-20",
-      "next_due": "2026-11-19",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-11-19",
+      "next_due": "2027-01-18",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_17": {
       "introduced": true,
@@ -554,10 +554,10 @@
     "strategy_20": {
       "introduced": true,
       "introduced_on": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "next_due": "2026-11-19",
-      "review_count": 0,
-      "times_seen": 1
+      "last_seen": "2026-11-19",
+      "next_due": "2026-11-22",
+      "review_count": 1,
+      "times_seen": 2
     },
     "strategy_21": {
       "introduced": false,
@@ -3292,6 +3292,19 @@
       "output_pdf": null,
       "sent_at": "2026-11-18T14:19:29",
       "output_epub": "output/epub/gesetz-der-strategie-nummer-20-manovriere-sie-in-schwache.epub"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "review",
+      "title": "Wiederholung: Strategie 20: Manövriere sie in Schwäche",
+      "items": [
+        "strategy_20",
+        "law_16"
+      ],
+      "output_json": "output/lessons/2026-11-19-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-19T14:45:02",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-20-manovriere-sie-in-schwache.epub"
     }
   ]
 }
