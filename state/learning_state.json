@@ -82,10 +82,10 @@
     "law_09": {
       "introduced": true,
       "introduced_on": "2026-06-10",
-      "last_seen": "2026-09-20",
-      "next_due": "2026-11-19",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-11-20",
+      "next_due": "2027-01-19",
+      "review_count": 8,
+      "times_seen": 9
     },
     "law_10": {
       "introduced": true,
@@ -3305,6 +3305,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-19T14:45:02",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-strategie-20-manovriere-sie-in-schwache.epub"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 9: Gewinne durch Taten, nicht durch Argumente",
+      "items": [
+        "law_09"
+      ],
+      "output_json": "output/lessons/2026-11-20-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-20T14:28:23",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-9-gewinne-durch-taten-nicht-durch-argumente.epub"
     }
   ]
 }
