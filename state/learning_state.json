@@ -138,10 +138,10 @@
     "law_16": {
       "introduced": true,
       "introduced_on": "2026-07-29",
-      "last_seen": "2026-11-19",
-      "next_due": "2027-01-18",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-11-22",
+      "next_due": "2027-01-21",
+      "review_count": 8,
+      "times_seen": 9
     },
     "law_17": {
       "introduced": true,
@@ -234,10 +234,10 @@
     "law_28": {
       "introduced": true,
       "introduced_on": "2026-11-13",
-      "last_seen": "2026-11-21",
-      "next_due": "2026-12-05",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-11-22",
+      "next_due": "2026-12-22",
+      "review_count": 4,
+      "times_seen": 5
     },
     "law_29": {
       "introduced": false,
@@ -442,10 +442,10 @@
     "strategy_06": {
       "introduced": true,
       "introduced_on": "2026-06-05",
-      "last_seen": "2026-11-16",
-      "next_due": "2027-01-15",
-      "review_count": 8,
-      "times_seen": 9
+      "last_seen": "2026-11-22",
+      "next_due": "2027-01-21",
+      "review_count": 9,
+      "times_seen": 10
     },
     "strategy_07": {
       "introduced": true,
@@ -554,10 +554,10 @@
     "strategy_20": {
       "introduced": true,
       "introduced_on": "2026-11-18",
-      "last_seen": "2026-11-21",
-      "next_due": "2026-11-28",
-      "review_count": 2,
-      "times_seen": 3
+      "last_seen": "2026-11-22",
+      "next_due": "2026-12-06",
+      "review_count": 3,
+      "times_seen": 4
     },
     "strategy_21": {
       "introduced": false,
@@ -3330,6 +3330,21 @@
       "output_pdf": null,
       "sent_at": "2026-11-21T13:55:16",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-28-handle-kuhn-vs-strategie-20-manovriere-sie-in-schwache.epub"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "weekly_review",
+      "title": "Wochenreview: Strategie 6: Segmentiere deine Kräfte, Gesetz 28: Handle kühn, Strategie 20: Manövriere sie in Schwäche",
+      "items": [
+        "strategy_06",
+        "law_28",
+        "strategy_20",
+        "law_16"
+      ],
+      "output_json": "output/lessons/2026-11-22-weekly-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-22T13:47:09",
+      "output_epub": "output/epub/wochenreview-strategie-und-macht.epub"
     }
   ]
 }
