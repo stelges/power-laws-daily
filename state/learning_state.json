@@ -98,10 +98,10 @@
     "law_11": {
       "introduced": true,
       "introduced_on": "2026-06-25",
-      "last_seen": "2026-09-24",
-      "next_due": "2026-11-23",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-11-24",
+      "next_due": "2027-01-23",
+      "review_count": 7,
+      "times_seen": 8
     },
     "law_12": {
       "introduced": true,
@@ -458,10 +458,10 @@
     "strategy_08": {
       "introduced": true,
       "introduced_on": "2026-06-27",
-      "last_seen": "2026-09-25",
-      "next_due": "2026-11-24",
-      "review_count": 6,
-      "times_seen": 7
+      "last_seen": "2026-11-24",
+      "next_due": "2027-01-23",
+      "review_count": 7,
+      "times_seen": 8
     },
     "strategy_09": {
       "introduced": true,
@@ -3358,6 +3358,19 @@
       "output_pdf": null,
       "sent_at": "2026-11-23T16:11:31",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-27-nutze-das-bedurfnis-der-menschen-zu-glauben.epub"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 11: Mache Menschen von dir abhängig",
+      "items": [
+        "law_11",
+        "strategy_08"
+      ],
+      "output_json": "output/lessons/2026-11-24-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-24T16:09:42",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-11-mache-menschen-von-dir-abhangig.epub"
     }
   ]
 }
