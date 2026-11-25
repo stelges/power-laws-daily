@@ -74,10 +74,10 @@
     "law_08": {
       "introduced": true,
       "introduced_on": "2026-06-03",
-      "last_seen": "2026-09-25",
-      "next_due": "2026-11-24",
-      "review_count": 7,
-      "times_seen": 8
+      "last_seen": "2026-11-25",
+      "next_due": "2027-01-24",
+      "review_count": 8,
+      "times_seen": 9
     },
     "law_09": {
       "introduced": true,
@@ -3371,6 +3371,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-24T16:09:42",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-11-mache-menschen-von-dir-abhangig.epub"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "review",
+      "title": "Wiederholung: Gesetz 8: Bring andere dazu, zu dir zu kommen",
+      "items": [
+        "law_08"
+      ],
+      "output_json": "output/lessons/2026-11-25-review.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-25T15:49:26",
+      "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-8-bring-andere-dazu-zu-dir-zu-kommen.epub"
     }
   ]
 }
