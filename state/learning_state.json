@@ -234,10 +234,10 @@
     "law_28": {
       "introduced": true,
       "introduced_on": "2026-11-13",
-      "last_seen": "2026-11-22",
-      "next_due": "2026-12-22",
-      "review_count": 4,
-      "times_seen": 5
+      "last_seen": "2026-11-27",
+      "next_due": "2027-01-26",
+      "review_count": 5,
+      "times_seen": 6
     },
     "law_29": {
       "introduced": false,
@@ -554,10 +554,10 @@
     "strategy_20": {
       "introduced": true,
       "introduced_on": "2026-11-18",
-      "last_seen": "2026-11-22",
-      "next_due": "2026-12-06",
-      "review_count": 3,
-      "times_seen": 4
+      "last_seen": "2026-11-27",
+      "next_due": "2026-12-27",
+      "review_count": 4,
+      "times_seen": 5
     },
     "strategy_21": {
       "introduced": false,
@@ -3396,6 +3396,19 @@
       "output_pdf": null,
       "sent_at": "2026-11-26T15:14:42",
       "output_epub": "output/epub/wiederholung-strategie-und-macht-gesetz-1-stelle-deinen-meister-nie-in-den-schatten.epub"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "comparison",
+      "title": "Gesetz 28: Handle kühn vs. Strategie 20: Manövriere sie in Schwäche",
+      "items": [
+        "law_28",
+        "strategy_20"
+      ],
+      "output_json": "output/lessons/2026-11-27-comparison.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-27T15:10:48",
+      "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-28-handle-kuhn-vs-strategie-20-manovriere-sie-in-schwache.epub"
     }
   ]
 }
