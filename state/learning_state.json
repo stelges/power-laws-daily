@@ -240,12 +240,12 @@
       "times_seen": 6
     },
     "law_29": {
-      "introduced": false,
-      "introduced_on": null,
-      "last_seen": null,
-      "next_due": null,
+      "introduced": true,
+      "introduced_on": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "next_due": "2026-11-29",
       "review_count": 0,
-      "times_seen": 0
+      "times_seen": 1
     },
     "law_30": {
       "introduced": false,
@@ -3409,6 +3409,18 @@
       "output_pdf": null,
       "sent_at": "2026-11-27T15:10:48",
       "output_epub": "output/epub/vergleich-strategie-und-macht-gesetz-28-handle-kuhn-vs-strategie-20-manovriere-sie-in-schwache.epub"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "new_law",
+      "title": "Gesetz 29: Plane bis zum Ende",
+      "items": [
+        "law_29"
+      ],
+      "output_json": "output/lessons/2026-11-28-new-law.json",
+      "output_pdf": null,
+      "sent_at": "2026-11-28T14:28:10",
+      "output_epub": "output/epub/gesetz-der-macht-nummer-29-plane-bis-zum-ende.epub"
     }
   ]
 }
